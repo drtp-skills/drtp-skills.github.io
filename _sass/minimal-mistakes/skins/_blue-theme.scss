@@ -1,0 +1,87 @@
+// Base colors
+$background-color: #0e5559 !default;   // deep teal background
+$text-color: #f8f9fa !default;         // off-white text
+$muted-text-color: #a5c5c7 !default;   // muted aqua-grey
+
+// Links
+$link-color: #41bfc7 !default;         // aqua blue
+$link-color-hover: lighten($link-color, 8%) !default;
+
+// Brand colors
+$primary-color: #41bfc7 !default;      // aqua (primary highlight)
+$secondary-color: #007b83 !default;    // teal
+$accent-color: #e63946 !default;       // compass red (strong accent)
+
+// Borders and dividers
+$border-color: #2a6a6e !default;       // soft teal-grey
+$footer-background-color: #07373a !default;
+
+// Buttons
+$btn-primary-color: #ffffff !default;
+$btn-primary-background: $primary-color !default;
+$btn-primary-border: $primary-color !default;
+$btn-primary-hover-background: lighten($primary-color, 8%) !default;
+$btn-primary-hover-border: lighten($primary-color, 6%) !default;
+
+// Code blocks
+$code-background-color: #07373a !default;
+$code-border-color: #2a6a6e !default;
+
+// Highlighting
+$highlight-color: $accent-color !default;
+
+// Hero / intro sections
+$hero-background-color: #07373a !default;
+$hero-text-color: #ffffff !default;
+
+// ===============================
+// Dark header box (title + tagline + buttons)
+// ===============================
+.page__hero--overlay .wrapper {
+  display: flex;
+  justify-content: flex-end;   /* pushes content to the right */
+  text-align: right;           /* aligns text inside */
+}
+
+.title-box {
+  background: rgba(0,0,0,0.8);       // dark transparent background
+  padding: 1.5rem 2rem;
+  border-radius: 0.5rem;
+  color: $hero-text-color;  // uses your theme's hero text color
+  max-width: 60%;
+  display: inline-block;
+
+  margin-left: auto;                 // lets flex/grid push it right
+  text-align: center;                 // align text inside the box right
+
+  h1, p, a.btn {
+    color: $hero-text-color; // ensures all text/buttons are white
+  }
+
+  a.btn {
+    border-color: $hero-text-color;
+  }
+}
+
+.feature__item .archive__item-teaser {
+  height: 200px;              /* pick a height that looks good */
+  overflow: hidden;            /* hides the excess */
+}
+
+.feature__item .archive__item-teaser img {
+  width: 100%;                 /* scale to fill the box */
+  height: 100%;                /* enforce consistent height */
+  object-fit: cover;           /* crop while keeping aspect ratio */
+}
+
+// ===============================
+// Masthead styles
+// ===============================
+.masthead .site-title {
+  font-size: 0;   /* hide text */
+}
+
+.masthead .site-title img {
+  max-height: 50px;   /* adjust logo size */
+  width: auto;
+}
