@@ -19,9 +19,12 @@ intro:
   -
     excerpt: |
         <div>
-            <p>Research Technical Professionals (RTPs) are an integral part of the modern process of scientific discovery. The goal of this website is to facilitate the process of discovery and development of digital research technical skills. </p>  
+            <p>Research Technical Professionals (RTPs) are an integral part of the modern process of scientific discovery. </p>
+            <p>The goal of this website is to facilitate the process of discovery and development of digital research technical skills - to better connect training opportunities with skills, skills with roles, roles with people, and people with people.  Making the ecosystem more transparent and easier to navigate is essential to ensure sustainable skill and career development for current and prospective dRTPs.</p>  
 
-            <p>This website will initially focus on the work done within two projects: DRIFT and CHARTED, and later expand to include an overview of the dRTP ecosystem.</p>  
+            <p>This website will initially focus on the work done within two projects: DRIFT and CHARTED, and later expand to include an overview of the dRTP ecosystem. The current work includes exploring and expanding the resources for the DRI support roles and teams, and efforts into making the existing training materials more FAIR (Findable, Accessible, Interoperable and Reusable).</p>  
+
+            <p>Over time, we will  also collect and present the outputs from the projects funded through the CHARTED flexible fund.</p>
         </div>
 
 
