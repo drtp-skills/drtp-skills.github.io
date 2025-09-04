@@ -26,9 +26,8 @@ intro:
 
 
 feature_row:
-  - image_path: /assets/images/bg-signpost.jpg
-    image_caption: "<small><small>Photo by Jan Huber on Unsplash</small></small>"
-    alt: "A tube map"
+  - image_path: /assets/images/charted-and-drift-logo-feature.png
+    alt: "charted and drift logos"
     title: "About the Projects"
     excerpt: "An introduction to CHARTED and DRIFT"
     url: "/about"
