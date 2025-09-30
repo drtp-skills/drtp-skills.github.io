@@ -32,3 +32,5 @@ We are especially interested in creating materials for domains that aren't alrea
 - ☕ 15:00 **Refreshments available**
 - 🗒️ 16:00 **Report back & Closing**
 - 🍹 16:30 **End/Drinks**
+
+This event is co-organised by [DRIFT](https://drtp-skills.ac.uk/about/) and RSEEE. [Research Software Engineering East of England](https://east-england.society-rse.org/) (RSEEE, say “R-S-triple-E”) is a regional RSE group in the UK, founded in 2024 under the Society of Research Software Engineering. Its aim is to be a regional community for networking and knowledge exchange in the field of research software development.
