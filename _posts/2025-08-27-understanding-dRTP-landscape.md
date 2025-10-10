@@ -15,5 +15,5 @@ The following events are planned:
 
 -   The skills and competencies session at [RSECon25 Training Community Day](https://rsecon25.society-rse.org/training-community-day/) 
 -   A session at the DRI congress (Leeds, 21-22 October) 
--   A two day workshop (London, 5-6 November)
+-   [A two day workshop]({% post_url 2025-10-10-drtp-november-workshop %}) (London, 5-6 November)
 -   A session at CIUK (Manchester, 3-5 December)

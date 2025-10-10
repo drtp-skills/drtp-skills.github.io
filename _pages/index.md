@@ -47,10 +47,10 @@ feature_row:
   - image_path: /assets/images/fp-conference.jpg
     image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
     alt: "conference"
-    title: "RSECon25"
-    excerpt: "Find out what we're up to at RSECon25"
-    url: "/RSECon25"
-    btn_label: "What's happening at RSECon25?"
+    title: "dRTP Landscape Workshop"
+    excerpt: "Find out about out dRTP Landscape Workshop"
+    url: "/drtp-november-workshop"
+    btn_label: "dRTP Landscape Workshop"
     btn_class: "btn--light-outline btn--small"
 ---
 
