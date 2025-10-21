@@ -11,7 +11,7 @@ We are pleased to let you know the Understanding the dRTP Training Landscape Wor
 -   Date:  5th - 6th November 2025
 -   Location: Bidborough House, 38–50 Bidborough Street, London, WC1H 9BT
 -   Registration form link: [https://bit.ly/dRTP_landscape_workshop](https://bit.ly/dRTP_landscape_workshop)  
--   Registration deadline: 5pm on Thursday 23 October 2025
+-   Registration deadline: Noon on Tuesday 28th October 2025
 
 This event, funded by the UKRI dRTP Skills NetworkPlus Programme, aims to
 -   Identify existing dRTP roles, 
