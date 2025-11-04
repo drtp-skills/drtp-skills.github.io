@@ -25,6 +25,9 @@ We are especially interested in creating materials for domains that aren't alrea
 - ☕ 10:00 **Arrival & Coffee**
 - 👋 10:30 **Introduction to RSEEE and DRIFT**
 - ⚡ 10:45 **Lightning talks**
+  - **Jonathan Blaney** (University of Cambridge)
+  - **Samantha Ahern** (University College London)
+  - **Todd Fallesen** (The Francis Crick Institute)
 - 🗒️ 11:15 **Intro to the sessions**
 - 🧑‍💻 11:30 **Hackathon - round 1**
 - 🥗 13:00 **Lunch**
