@@ -1,6 +1,8 @@
 ---
 title: "Fund 4:  Professional Development"
 permalink: /funds-prof-dev/
+layout: single
+classes: wide
 ---
 
 **Purpose:**   To support professional development of individuals who may be early in their career, returning after a break or re-orienting themselves in their careers.  Activities may include attending conferences or events, fees for training courses or certificates and visits to other institutions for knowledge exchange.

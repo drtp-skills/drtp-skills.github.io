@@ -1,6 +1,8 @@
 ---
 permalink: /about-charted/
 title: "About CHARTED"
+layout: single
+classes: wide
 ---
 <br/>
 <br/>

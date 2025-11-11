@@ -1,6 +1,8 @@
 ---
 permalink: /about-drift/
 title: "About DRIFT"
+layout: single
+classes: wide
 ---
 <br/>
 <br/>

@@ -1,6 +1,8 @@
 ---
 title: "Fund 1: FAIR Ecosystem"
 permalink: /funds-fair/
+layout: single
+classes: wide
 ---
 
 **Purpose:**  To support activities that make the training ecosystem more findable, accessible, interoperable and reusable.  These might include defining skills, expanding skill trees, linking skills to training, adapting existing content and identifying missing content and professional development challenges.

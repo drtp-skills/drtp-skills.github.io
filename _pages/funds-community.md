@@ -1,6 +1,8 @@
 ---
 title: "Fund 2: Community Activities"
 permalink: /funds-community/
+layout: single
+classes: wide
 ---
 
 **Purpose:**   To support community-wide activities, mostly at national level.  These may include creation and support of RTP networks, mentoring programmes, events focussed on capturing career profiles, career development and engagement with other stakeholders eg in industry.
