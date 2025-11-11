@@ -5,7 +5,7 @@ title: "About CHARTED"
 <br/>
 <br/>
 
-![]({{ site.baseurl }}/assets/images/charted-turquoise.png)
+![]({{ site.baseurl }}/assets/images/CHARTED_Primary.png)
 
 **CHARTED – The Connecting Hub for Advancing the RTP Talent Enabling DRI**
 

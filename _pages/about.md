@@ -5,7 +5,7 @@ title: "About"
 <br/>
 <br/>
 
-![]({{ site.baseurl }}/assets/images/charted-turquoise.png)
+![]({{ site.baseurl }}/assets/images/CHARTED_Primary.png)
 
 **CHARTED – The Connecting Hub for Advancing the RTP Talent Enabling DRI**
 
@@ -15,7 +15,7 @@ As computational research grows and assimilates emerging technologies, the need 
 <br/>
 
 
-![]({{ site.baseurl }}/assets/images/drift-turquoise.png)
+![]({{ site.baseurl }}/assets/images/DRIFT_Primary.png)
 
 Digital Research Infrastructure (DRI) is now ubiquitous in research. It has revolutionised the way that we conduct research, pervading all aspects of the research lifecycle. From the use of large-scale computing for machine-learning and big data, to the management of experiments for record keeping and reproducibility, research is powered by the software and hardware that have become vital for modern researchers. This requires new skills and forms of research collaboration, as research supported by DRI aims at larger scales and interdisciplinary collaboration.
 
