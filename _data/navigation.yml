@@ -1,7 +1,29 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Funding Opportunities"
+  - title: About
+    sublinks:
+      - title: dRTP Skills Overview
+        url: /about/
+      - title: CHARTED
+        url: /about/
+      - title: DRIFT
+        url: /funds/
+      - title: Related Projects
+        url: /events/
+  - title: Funding Opportunities
+    sublinks:
+      - title: Overview of Funding
+        url: /funds/
+      - title: FAIR Ecosystem
+        url: /funds/
+      - title: Community Activities
+        url: /about/
+      - title: Tools and Frameworks
+        url: /funds/
+      - title: Professional Development
+        url: /events/
+      - title: Call for Reviewers
+        url: /about/
+  - title: dRTP Landscape
     url: /funds/
-  - title: "Upcoming Events"
+  - title: Contact
     url: /events/
