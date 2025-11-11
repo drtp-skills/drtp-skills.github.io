@@ -26,3 +26,52 @@
 .greedy-nav .visible-links .dropdown-content a:not(:last-child) {
   border-bottom: none;
 }
+
+/* Accessible accordion (details/summary) styles */
+details.accordion {
+  background: rgba(7,55,58,0.06);
+  border: 1px solid rgba(42,106,110,0.1);
+  padding: 0.5rem 0.75rem;
+  margin: 0.75rem 0;
+  border-radius: 4px;
+}
+
+details.accordion[open] {
+  background: rgba(7,55,58,0.08);
+}
+
+details.accordion summary {
+  list-style: none;
+  cursor: pointer;
+  font-weight: 700;
+  outline: none;
+  padding: 0.25rem 0.25rem;
+}
+
+/* Remove default marker and add custom chevron */
+details.accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+details.accordion summary::after {
+  content: '\25be'; /* small down-pointing triangle */
+  float: right;
+  transition: transform 0.2s ease-in-out;
+}
+
+details.accordion[open] summary::after {
+  transform: rotate(-180deg);
+}
+/* add a white divider between adjacent accordions */
+details.accordion + details.accordion {
+  border-top: 1px solid #ffffff;
+  margin-top: 0.5rem;
+  padding-top: 0.75rem;
+}
+
+details.accordion p {
+  margin: 0.5rem 0 0;
+  color: #a5c5c7;
+}
+
+

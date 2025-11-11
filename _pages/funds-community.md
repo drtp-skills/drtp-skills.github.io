@@ -9,3 +9,25 @@ permalink: /funds-community/
 
 **Timeframe:**   Call expected to open around October 2025, to complete by the end of 2028.
 
+<details class="accordion">
+<summary>Who can apply</summary>
+
+Information about who can apply.
+
+</details>
+
+<details class="accordion">
+<summary>What we're looking for</summary>
+
+Information about what we're looking for.
+
+</details>
+
+<details class="accordion">
+<summary>How to apply</summary>
+
+Information about how to apply
+
+</details>
+
+
