@@ -52,3 +52,108 @@
     </div>
   </div>
 </div>
+
+<script>
+(function () {
+  // Keyboard accessibility for dropdown menus in masthead
+  var toggles = document.querySelectorAll('.masthead .dropdown-toggle');
+
+  function openDropdown(li, toggle) {
+    li.classList.add('open');
+    toggle.setAttribute('aria-expanded', 'true');
+  }
+  function closeDropdown(li, toggle) {
+    li.classList.remove('open');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+
+  toggles.forEach(function (toggle) {
+    var li = toggle.closest('.dropdown');
+    var menu = li && li.querySelector('.dropdown-content');
+
+    // Ensure aria-expanded exists
+    toggle.setAttribute('aria-expanded', toggle.getAttribute('aria-expanded') || 'false');
+
+    // Show on focus (tab into toggle)
+    toggle.addEventListener('focus', function () {
+      openDropdown(li, toggle);
+    });
+
+    // Clicking or pressing Enter/Space toggles the menu
+    toggle.addEventListener('click', function (ev) {
+      ev.preventDefault();
+      var isOpen = li.classList.contains('open');
+      (isOpen ? closeDropdown : openDropdown)(li, toggle);
+      // If we just opened, focus the first link
+      if (!isOpen) {
+        var first = menu && menu.querySelector('a');
+        if (first) first.focus();
+      }
+    });
+
+    toggle.addEventListener('keydown', function (ev) {
+      if (ev.key === ' ' || ev.key === 'Spacebar' || ev.key === 'Enter') {
+        // Space/Enter toggle
+        ev.preventDefault();
+        var isOpen = li.classList.contains('open');
+        (isOpen ? closeDropdown : openDropdown)(li, toggle);
+        if (!isOpen) {
+          var first = menu && menu.querySelector('a');
+          if (first) first.focus();
+        }
+      } else if (ev.key === 'ArrowDown') {
+        // Open and focus first item
+        ev.preventDefault();
+        openDropdown(li, toggle);
+        var first = menu && menu.querySelector('a');
+        if (first) first.focus();
+      } else if (ev.key === 'Escape') {
+        ev.preventDefault();
+        closeDropdown(li, toggle);
+        toggle.focus();
+      }
+    });
+
+    // Close when focus leaves the whole <li> (use focusout to catch children)
+    li.addEventListener('focusout', function (ev) {
+      // If the new focused element is still inside the li, do nothing
+      var related = ev.relatedTarget;
+      if (!related || !li.contains(related)) {
+        closeDropdown(li, toggle);
+      }
+    });
+
+    // Also close on Escape from menu links, and allow ArrowDown/Up navigation inside menu
+    if (menu) {
+      menu.addEventListener('keydown', function (ev) {
+        var links = Array.prototype.slice.call(menu.querySelectorAll('a'));
+        var idx = links.indexOf(document.activeElement);
+        if (ev.key === 'Escape') {
+          ev.preventDefault();
+          closeDropdown(li, toggle);
+          toggle.focus();
+        } else if (ev.key === 'ArrowDown') {
+          ev.preventDefault();
+          var next = links[(idx + 1) % links.length];
+          if (next) next.focus();
+        } else if (ev.key === 'ArrowUp') {
+          ev.preventDefault();
+          var prev = links[(idx - 1 + links.length) % links.length];
+          if (prev) prev.focus();
+        }
+      });
+    }
+  });
+
+  // Optional: clicking anywhere outside closes open dropdowns
+  document.addEventListener('click', function (ev) {
+    var openDropdowns = document.querySelectorAll('.masthead .dropdown.open');
+    openDropdowns.forEach(function (d) {
+      if (!d.contains(ev.target)) {
+        var toggle = d.querySelector('.dropdown-toggle');
+        closeDropdown(d, toggle);
+      }
+    });
+  }, true);
+})();
+</script>
