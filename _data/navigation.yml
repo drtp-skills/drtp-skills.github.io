@@ -1,5 +1,6 @@
 main:
   - title: About
+    url: /about/
     sublinks:
       - title: dRTP Skills Overview
         url: /about/
@@ -10,6 +11,7 @@ main:
       - title: Related Projects
         url: /about-related-projects/
   - title: Funding Opportunities
+    url: /funding-opportunities/
     sublinks:
       - title: Overview of Funding
         url: /funds/

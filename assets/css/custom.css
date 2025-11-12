@@ -23,6 +23,11 @@
   display: block;
 }
 
+/* Allow dropdowns to be opened via .open class for keyboard accessibility */
+.greedy-nav .visible-links .dropdown.open .dropdown-content {
+  display: block;
+}
+
 .greedy-nav .visible-links .dropdown-content a:not(:last-child) {
   border-bottom: none;
 }
