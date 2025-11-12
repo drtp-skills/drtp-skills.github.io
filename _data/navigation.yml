@@ -23,6 +23,8 @@ main:
         url: /funds-prof-dev/
       - title: Call for Reviewers
         url: /funds-reviewers/
+  - title: Events
+    url: /events/
   - title: dRTP Landscape
     url: /drtp-landscape/
   - title: Contact

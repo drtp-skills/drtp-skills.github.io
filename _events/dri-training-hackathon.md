@@ -1,8 +1,8 @@
 ---
 title: "Digital Research Infrastructure & Training Hackathon"
-categories:
-  - events
+date: "2025-11-07"
 layout: single
+classes: wide
 ---
 
 Join us in Cambridge and get involved in facilitating the adoption of Digital Research Infrastructure 🚀

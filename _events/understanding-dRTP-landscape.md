@@ -1,8 +1,8 @@
 ---
 title: "Understanding dRTP landscape "
-categories:
-  - events
-layout: single       # shows the individual event page
+date: "2025-09-09"
+layout: single
+classes: wide
 ---
 
 This series of events is a collaboration between the following projects: CHARTED, DisCouRSE and SCALE UP. 
@@ -15,5 +15,5 @@ The following events are planned:
 
 -   The skills and competencies session at [RSECon25 Training Community Day](https://rsecon25.society-rse.org/training-community-day/) 
 -   A session at the DRI congress (Leeds, 21-22 October) 
--   [A two day workshop]({% post_url 2025-10-10-drtp-november-workshop %}) (London, 5-6 November)
+-   [A two day workshop](/events/drtp-november-workshop/) (London, 5-6 November)
 -   A session at CIUK (Manchester, 3-5 December)

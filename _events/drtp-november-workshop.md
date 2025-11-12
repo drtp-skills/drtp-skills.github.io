@@ -1,8 +1,8 @@
 ---
 title: "Understanding the dRTP Training Landscape Workshop, London, 5th - 6th November 2025"
-categories:
-  - events
+date: "2025-11-05"
 layout: single
+classes: wide
 ---
 
 We are pleased to let you know the Understanding the dRTP Training Landscape Workshop will take place on 5th - 6th November 2025 at Bidborough House, UCL, London.
