@@ -3,6 +3,7 @@ title: "Understanding dRTP landscape "
 date: "2025-09-09"
 layout: single
 classes: wide
+tags: [CHARTED, DisCouRSE, SCALE UP, RSECon25]
 ---
 
 This series of events is a collaboration between the following projects: CHARTED, DisCouRSE and SCALE UP. 

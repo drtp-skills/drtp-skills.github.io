@@ -1,8 +1,7 @@
 ---
 title: "Digital Research Infrastructure & Training Hackathon"
 date: "2025-11-07"
-layout: single
-classes: wide
+tags: [hackathon, Gutenberg, DRIFT, RSEEE]
 ---
 
 Join us in Cambridge and get involved in facilitating the adoption of Digital Research Infrastructure 🚀

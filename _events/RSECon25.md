@@ -3,6 +3,7 @@ title: "What's happening at RSECon25?"
 date: "2025-09-09"
 layout: single
 classes: wide
+tags: [Gutenberg, DRIFT, RSECon25]
 ---
 
 There will be several sessions related to dRTP skills at RSECon25.  

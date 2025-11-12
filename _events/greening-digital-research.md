@@ -3,6 +3,7 @@ title: "Greening Digital Research"
 date: "2025-08-01"
 layout: single
 classes: wide
+tags: [sustainability, NetDRIVE, CHARTED, DisCouRSE, SCALE UP]
 ---
 
 This series of events is a collaboration between the following projects: CHARTED, NetDRIVE, DisCouRSE and SCALE UP. 

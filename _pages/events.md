@@ -10,12 +10,21 @@ sidebar: false
 {% assign mention_future = "no" %}
 {% assign mention_previous = "no" %}
 {% assign sorted_events = site.events | sort: "date" | reverse %}
+{% assign all_tags = sorted_events | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
 
 {% if sorted_events.size > 0 %}
   {% assign first_event_date = sorted_events[0].date | date: '%s' %}
 {% else %}
   {% assign first_event_date = "2000-01-01 00:00" | date: '%s' %}
 {% endif %}
+
+<div id="tag-filter-bar">
+  <h3>Filter events by tag:</h3>
+  <button class="tag-filter-btn" data-tag="all">All</button>
+  {% for tag in all_tags %}
+    <button class="tag-filter-btn" data-tag="{{ tag }}">{{ tag }}</button>
+  {% endfor %}
+</div>
 
 {% if first_event_date < current_date %}
   <div>
@@ -36,9 +45,33 @@ sidebar: false
   <h2>Past Events</h2>
   {% assign mention_previous = "yes" %}
   {% endif %}
-  
-  <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
-  {% if event.date %}<p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }}</p>{% endif %}
-  <p>{{ event.excerpt }}</p>
-  <hr>
+  <div class="event-item" data-tags="{% if event.tags %}{{ event.tags | join: ',' }}{% endif %}">
+    <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+    <p>{{ event.excerpt }}</p>
+    {% if event.date %}<p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }}</p>{% endif %}
+    {% if event.tags %}<p><strong>Tags:</strong> {% for tag in event.tags %}<span style="background:#e0f7fa; color:#00796b; padding:2px 8px; margin-right:4px; border-radius:8px; font-size:0.9em;">{{ tag }}</span>{% endfor %}</p>{% endif %}
+    <hr>
+  </div>
 {% endfor %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var buttons = document.querySelectorAll('.tag-filter-btn');
+  var events = document.querySelectorAll('.event-item');
+  buttons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var tag = btn.getAttribute('data-tag');
+      buttons.forEach(function(b) { b.style.fontWeight = 'normal'; });
+      btn.style.fontWeight = 'bold';
+      events.forEach(function(ev) {
+        var tags = ev.getAttribute('data-tags');
+        if (tag === 'all' || (tags && tags.split(',').map(t => t.trim()).includes(tag))) {
+          ev.style.display = '';
+        } else {
+          ev.style.display = 'none';
+        }
+      });
+    });
+  });
+});
+</script>
