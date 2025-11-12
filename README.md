@@ -9,9 +9,9 @@ Source code for the **dRTP Skills** website ([www.drtp-skills.ac.uk](https://www
 
 Research Technical Professionals (RTPs) are integral to modern scientific discovery. This website facilitates the discovery and development of digital research technical skills through:
 
-- **Events & Workshops** — Upcoming and past training events, conferences, and hackathons
-- **Funding Opportunities** — Information on grants and financial support for professional development, tools, and community initiatives
-- **About Pages** — Details on CHARTED, DRIFT, and related projects supporting the dRTP community
+- **Events & Workshops**: Upcoming and past training events, conferences, and hackathons
+- **Funding Opportunities**: Information on grants and financial support for professional development, tools, and community initiatives
+- **About Pages**: Details on CHARTED, DRIFT, and related projects supporting the dRTP community
 
 ## Technology Stack
 
@@ -138,13 +138,13 @@ Primary colors:
 Custom styles in `assets/css/custom.css` include:
 - **Dropdown menus** — Keyboard-accessible navigation dropdowns
 - **Accordions** — Expandable content sections with chevron indicators
-- **Image framing** — Special styling for CHARTED/DRIFT logos
+- **Image framing** — Framing for CHARTED/DRIFT logos
 - **Wide layout** — Full-width page layout without sidebar
 - **Tag filters** — Event filtering UI
 
 ### JavaScript Features
 
-- **Dropdown keyboard navigation** — Full keyboard accessibility for nav dropdowns (Enter/Space/Arrow keys/Escape)
+- **Dropdown keyboard navigation** — Keyboard accessibility for nav dropdowns
 - **Event tag filtering** — Client-side filtering by event tags
 - **Accordion toggles** — Native `<details>` elements with custom styling
 
@@ -161,6 +161,6 @@ This project uses the [MIT Licensed](LICENSE) theme (Minimal Mistakes). Content 
 
 ## Contact
 
-For questions, issues, or contributions, please visit the [Contact Us](/contact-us/) page or open an issue on GitHub.
+Please visit the [Contact Us](/contact-us/) page or open an issue on GitHub.
 
 ---
