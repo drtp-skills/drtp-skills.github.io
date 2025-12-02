@@ -8,8 +8,8 @@ main:
         url: /about-charted
       - title: DRIFT
         url: /about-drift/
-      - title: Related Projects
-        url: /about-related-projects/
+      # - title: Related Projects
+      #   url: /about-related-projects/
   - title: Funding Opportunities
     url: /funding-opportunities/
     sublinks:
@@ -23,11 +23,11 @@ main:
         url: /funds-tools/
       - title: Professional Development
         url: /funds-prof-dev/
-      - title: Call for Reviewers
-        url: /funds-reviewers/
+      # - title: Call for Reviewers
+      #   url: /funds-reviewers/
   - title: Events
     url: /events/
-  - title: dRTP Landscape
-    url: /drtp-landscape/
-  - title: Contact
-    url: /contact-us/
+  # - title: dRTP Landscape
+  #   url: /drtp-landscape/
+  # - title: Contact
+  #   url: /contact-us/
