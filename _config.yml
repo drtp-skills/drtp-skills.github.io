@@ -62,6 +62,19 @@ defaults:
       layout: single
       author_profile: false
 
+  # Events (collection)
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: false
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:name/
+
 # ==================================================
 # Archives
 # ==================================================

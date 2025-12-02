@@ -1,8 +1,9 @@
 ---
 title: "What's happening at RSECon25?"
-categories:
-  - events
-layout: single       # shows the individual event page
+date: "2025-09-09"
+layout: single
+classes: wide
+tags: [Gutenberg, DRIFT, RSECon25]
 ---
 
 There will be several sessions related to dRTP skills at RSECon25.  
@@ -11,7 +12,7 @@ There will be several sessions related to dRTP skills at RSECon25.
 
 On Tuesday 9th September 13:45-14:30, in Room OC0.03, there will be a walkthrough of [Gutenberg](https://virtual.oxfordabstracts.com/event/75166/session/177027), an interactive training platform developed by RSEs for delivering training in software engineering and research computing related topics to researchers, students and other RSEs. 
 
-This walkthrough will introduce the core components of the system and demonstrate how it can support material authors, learners and instructors. 
+This walkthrough will introdSuce the core components of the system and demonstrate how it can support material authors, learners and instructors. 
 
 1.   Authors develop course content purely in Markdown, with the addition of some custom callouts, to be stored in one or more separate Git repositories, allowing easy version control and collaboration. The platform renders this material into navigable courses with embedded challenges, code blocks, comment threads, and other multimedia content.
 

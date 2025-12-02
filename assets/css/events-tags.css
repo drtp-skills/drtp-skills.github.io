@@ -1,0 +1,25 @@
+/* Tag filter button styles for events page */
+
+.tag-filter-btn {
+  background: #e0f7fa;
+  color: #00796b;
+  padding: 2px 12px;
+  margin: 0 6px 8px 0;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9em;
+  font-weight: 500;
+  box-shadow: none;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  display: inline-block;
+}
+.tag-filter-btn:hover, .tag-filter-btn:focus, .tag-filter-btn.active, .tag-filter-btn[style*="font-weight: bold"] {
+  background: #00796b;
+  color: #fff;
+}
+#tag-filter-bar {
+  margin-bottom: 1.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #e0f7fa;
+}

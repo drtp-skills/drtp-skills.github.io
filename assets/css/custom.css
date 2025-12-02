@@ -1,0 +1,130 @@
+/* Dropdown menu styles */
+.greedy-nav .visible-links .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #07373a;
+  min-width: 160px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  z-index: 1;
+}
+
+.greedy-nav .visible-links .dropdown-content a {
+  display: block;
+  padding: 4px 8px;
+  color: #a5c5c7;
+  text-decoration: none;
+}
+
+.greedy-nav .visible-links .dropdown-content a:hover {
+  color: #47d2da;
+}
+
+.greedy-nav .visible-links .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Allow dropdowns to be opened via .open class for keyboard accessibility */
+.greedy-nav .visible-links .dropdown.open .dropdown-content {
+  display: block;
+}
+
+.greedy-nav .visible-links .dropdown-content a:not(:last-child) {
+  border-bottom: none;
+}
+
+/* Accessible accordion (details/summary) styles */
+details.accordion {
+  background: rgba(7,55,58,0.06);
+  border: 1px solid rgba(42,106,110,0.1);
+  padding: 0.5rem 0.75rem;
+  margin: 0.75rem 0;
+  border-radius: 4px;
+}
+
+details.accordion[open] {
+  background: rgba(7,55,58,0.08);
+}
+
+details.accordion summary {
+  list-style: none;
+  cursor: pointer;
+  font-weight: 700;
+  outline: none;
+  padding: 0.25rem 0.25rem;
+}
+
+/* Remove default marker and add custom chevron */
+details.accordion summary::-webkit-details-marker {
+  display: none;
+}
+
+details.accordion summary::after {
+  content: '\25be'; /* small down-pointing triangle */
+  float: right;
+  transition: transform 0.2s ease-in-out;
+}
+
+details.accordion[open] summary::after {
+  transform: rotate(-180deg);
+}
+/* add a white divider between adjacent accordions */
+details.accordion + details.accordion {
+  border-top: 1px solid #ffffff;
+  margin-top: 0.5rem;
+  padding-top: 0.75rem;
+}
+
+details.accordion p {
+  margin: 0.5rem 0 0;
+  color: #a5c5c7;
+}
+
+/* Framed images for CHARTED and DRIFT logos */
+img[src$="CHARTED_Primary.png"],
+img[src$="DRIFT_Primary.png"] {
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+  max-width: 60%;
+}
+
+/* Center content on wide layout pages with no sidebar */
+.layout--single.wide .page__inner-wrap {
+  max-width: 100%;
+  margin: 0 auto;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.layout--single.wide .page__content {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Remove sidebar space from page on wide layout */
+@media (min-width: 64em) {
+  .layout--single.wide .page {
+    width: 100% !important;
+    padding-inline-end: 0 !important;
+  }
+}
+
+@media (min-width: 80em) {
+  .layout--single.wide .page {
+    width: 100% !important;
+    padding-inline-end: 0 !important;
+  }
+}
+
+/* Add space between nav bar and page title */
+.page__title {
+  margin-top: 1.5rem;
+}
+
+
+
+

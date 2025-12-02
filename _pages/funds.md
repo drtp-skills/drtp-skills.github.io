@@ -1,6 +1,8 @@
 ---
 title: "Funding Opportunities"
 permalink: /funds/
+layout: single
+classes: wide
 ---
 ## CHARTED - Flexible Funding
 
