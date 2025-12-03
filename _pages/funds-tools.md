@@ -14,21 +14,21 @@ classes: wide
 <details class="accordion">
 <summary>Who can apply</summary>
 
-Information about who can apply.
+Coming soon...
 
 </details>
 
 <details class="accordion">
 <summary>What we're looking for</summary>
 
-Information about what we're looking for.
+Coming soon...
 
 </details>
 
 <details class="accordion">
 <summary>How to apply</summary>
 
-Information about how to apply
+Coming soon...
 
 </details>
 
