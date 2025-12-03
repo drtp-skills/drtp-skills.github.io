@@ -27,6 +27,8 @@ main:
         url: /funds-reviewers/
   - title: Events
     url: /events/
+  - title: Blog
+    url: /blog/
   # - title: dRTP Landscape
   #   url: /drtp-landscape/
   # - title: Contact

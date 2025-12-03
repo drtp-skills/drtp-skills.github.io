@@ -20,7 +20,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
+permalink: /blog/:year/:month/:day/:title/
 paginate: 5
 paginate_path: /page:num/
 timezone: # e.g., Europe/London
