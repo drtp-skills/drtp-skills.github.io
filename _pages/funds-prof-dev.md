@@ -52,4 +52,4 @@ Applications will be ranked according to the benefits to the individuals and the
 
 The number of applications funded in each round will depend on the quality of the applications and the amount of funds requested. 
 
-If you have any questions about the application or review process please get in touch with us at : [charted@drtp-skills.ac.uk](mailto:charted@drtp-skills.ac.uk)
+If you have any questions about the application or review process please get in touch with us at: [charted@drtp-skills.ac.uk](mailto:charted@drtp-skills.ac.uk)
