@@ -47,10 +47,10 @@ feature_row:
   - image_path: /assets/images/fp-conference.jpg
     image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
     alt: "conference"
-    title: "dRTP Landscape Workshop"
-    excerpt: "Find out about out dRTP Landscape Workshop"
-    url: "/drtp-november-workshop"
-    btn_label: "dRTP Landscape Workshop"
+    title: "CHARTED Fund 4"
+    excerpt: "CHARTED flexible fund - Fund 4: Supporting Professional Development"
+    url: "/funds-prof-dev"
+    btn_label: "CHARTED Fund 4"
     btn_class: "btn--light-outline btn--small"
 ---
 

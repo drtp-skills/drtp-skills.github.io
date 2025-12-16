@@ -5,6 +5,9 @@ layout: single
 classes: wide
 ---
 
+<br/>
+THIS FUND IS NOW OPEN
+
 ## Scope
 
 One of the challenges digital Research Technical Professionals face (often early in their careers) is the lack of funding to attend external opportunities such as conferences, training courses, and other community and knowledge exchange events. The goal of this fund is to provide financial support for dRTPs who would not be able to take advantage of those opportunities otherwise. The examples of supported activities include but are not limited to:
@@ -19,7 +22,10 @@ To maximise the effectiveness of this opportunity, the fund will be administered
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per individual being £5k. The eligibility criteria and the review process are described below. 
 
-APPLY HERE - COMING SOON!
+Applications are being managed through Good Grants and you will need to register on the platform in order to complete a form.
+(Note that although the website page logo is 'SSI Research Software Maintenance Fund', this is still the correct place to apply for CHARTED).
+
+<a href="https://digitalresearchinfrastructure.grantplatform.com/entry/entrant?archived=none&page=1&per_page=10&trashed=none" class="btn btn--primary btn--large">APPLY HERE</a>
 
 ## Rules and Eligibility
 
