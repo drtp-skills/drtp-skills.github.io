@@ -1,5 +1,5 @@
 ---
-title: "Funding Opportunities"
+title: "Overview of Funds"
 permalink: /funds/
 layout: single
 classes: wide
