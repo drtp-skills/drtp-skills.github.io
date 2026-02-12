@@ -1,5 +1,5 @@
 ---
-permalink: /about-drift/
+permalink: /about/drift/
 title: "About DRIFT"
 layout: single
 classes: wide
