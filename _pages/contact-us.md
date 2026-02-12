@@ -16,7 +16,7 @@ For further information, you can contact us on the email addresses below:
 
 # Links 
 
-to other NetworkPlus Projects with funding opportunities:
+Links to other NetworkPlus projects with funding opportunities:
 
 - CAKE - Computational Knowledge Exchange
 [https://www.cake.ac.uk/](https://www.cake.ac.uk/)
