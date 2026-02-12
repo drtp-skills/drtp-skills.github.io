@@ -1,6 +1,6 @@
 ---
 permalink: /contact-us/
-title: "Contact"
+title: "Contacts"
 layout: single
 classes: wide
 ---
