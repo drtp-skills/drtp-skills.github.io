@@ -5,9 +5,9 @@ main:
       - title: dRTP Skills Overview
         url: /about/
       - title: CHARTED
-        url: /about-charted
+        url: /about/charted/
       - title: DRIFT
-        url: /about-drift/
+        url: /about/drift/
       # - title: Related Projects
       #   url: /about-related-projects/
   - title: Funding Opportunities

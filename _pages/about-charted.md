@@ -1,5 +1,5 @@
 ---
-permalink: /about-charted/
+permalink: /about/charted/
 title: "About CHARTED"
 layout: single
 classes: wide
