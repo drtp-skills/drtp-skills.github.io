@@ -39,10 +39,10 @@ feature_row:
   - image_path: assets/images/fp-writing.jpg
     image_caption: "<small><small>Photo by [Alejandro Escamilla](https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/y83Je1OC6Wc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
     alt: "Person writing next to laptop"
-    title: "Funding Opportunities"
-    excerpt: "Fund 4 is open for applications - deadline 15th of every month"
-    url: "/funds"
-    btn_label: "Funding Opportunities"
+    title: "Community Activities Fund"
+    excerpt: "Fund 2: Community Activities is now open for applications"
+    url: "/funds-community/"
+    btn_label: "Fund 2 Details"
     btn_class: "btn--light-outline btn--small"
   - image_path: /assets/images/fp-conference.jpg
     image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
