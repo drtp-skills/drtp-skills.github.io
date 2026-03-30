@@ -47,10 +47,10 @@ feature_row:
   - image_path: /assets/images/fp-conference.jpg
     image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
     alt: "conference"
-    title: "Upcoming Event"
-    excerpt: "Evaluating FAIRness of training resources [online session]"
-    url: "/events/evaluating-fairness-of-training-resources/"
-    btn_label: "Details"
+    title: "Professional Development Fund"
+    excerpt: "Fund 4: Professional Development remains open for applications"
+    url: "/funds-prof-dev/"
+    btn_label: "Fund 4 Details"
     btn_class: "btn--light-outline btn--small"
 ---
 
