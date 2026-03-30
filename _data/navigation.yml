@@ -15,13 +15,13 @@ main:
     sublinks:
       - title: Overview of Funding
         url: /funds/
-      - title: FAIR Ecosystem
+      - title: "Fund 1: FAIR Ecosystem"
         url: /funds-fair/
-      - title: Community Activities
+      - title: "Fund 2: Community Activities"
         url: /funds-community/
-      - title: Tools and Frameworks
+      - title: "Fund 3: Tools and Frameworks"
         url: /funds-tools/
-      - title: Professional Development
+      - title: "Fund 4: Professional Development"
         url: /funds-prof-dev/
       - title: Call for Reviewers
         url: /funds-reviewers/

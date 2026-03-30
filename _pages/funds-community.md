@@ -4,8 +4,14 @@ permalink: /funds-community/
 layout: single
 classes: wide
 ---
+<br/>
+**FUND NOW OPEN** 
 
-**Purpose:**  
+**Submission deadlines:**  April 15th 2026 and then every second month 
+
+<a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large">APPLY HERE</a>
+
+**Purpose**  
 
 CHARTED’s “Fund 2” is designed to support a wide range of community activities within the [project’s remit]({{ site.baseurl }}/about/charted/). CHARTED is focused on making the digital Research Technical Professionals (dRTP) ecosystem easier to navigate for both new and experienced members of the community, to improve the understanding of skills and roles within the space and improve visibility and accessibility of training resources.
 
@@ -16,8 +22,6 @@ Some of the many ways these challenges can be addressed include community events
 To maximise the effectiveness of this opportunity, the fund will be administered on a rolling basis, with  review of submissions taking place approximately every two months.
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £5k (event series will also be considered). The eligibility criteria and the review process are described below.
-
-**Submission deadlines:**  April 15th 2026 and then every second month 
 
 <details class="accordion">
 <summary>Who can apply</summary>
@@ -61,11 +65,31 @@ A <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/manager
 <summary>How to apply</summary>
 
 Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>.
-
+<br>
+<br>
 The number of applications funded in each round will depend on the quality of the applications and the amount of funding requested.
-
+<br>
+<br>
 If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a> 
 
 </details>
+
+<details class="accordion">
+<summary>Review process</summary>
+
+Applications will be assessed using a light-touch review process to ensure timeliness of the awards. The review committee will consist of two external reviewers, and two representatives from the projects.
+<br>
+<br>
+Applications will be ranked according to the benefits to the individuals and their local community. Please see the previous section for details on what should be included in the applications.
+<br>
+<br>
+The number of applications funded in each round will depend on the quality of the applications and the amount of funds requested.
+<br>
+<br>
+If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a>
+
+</details>
+
+
 
 
