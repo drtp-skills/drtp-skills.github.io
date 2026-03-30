@@ -30,3 +30,5 @@ The CHARTED team:
 - Imperial College London - Jeremy Cohen (Co-lead and Community Building Manager), Eirini Zormpa (Community Manager)
 - University of Southampton – Steve Crouch (Co-lead and HUB Development Manager), Philly Broadbent (Research Software Engineer)
 
+
+ To subscribe to the CHARTED mailing list to receive updates on funding calls and events, sign up here: <a href="https://mailchi.mp/aec876699acd/subscribe-to-charted" class="btn btn--primary btn--large">Sign up to CHARTED Mailing List</a>
