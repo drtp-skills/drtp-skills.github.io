@@ -26,7 +26,8 @@ The total value of this fund is £150k to be administered throughout the duratio
 <details class="accordion">
 <summary>Who can apply</summary>
 
-This fund is aimed at UK-based researchers and dRTPs involved with research software, research data and research computing infrastructure, or supporting other dRTPs. Applicants can be based at UK universities or UK-based non-profit organisations. This fund will cover 100% of the <a href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/">Full Economic Costs (FEC)</a> of the proposed activity. of the proposed activity. 
+This fund is aimed at UK-based researchers and dRTPs involved with research software, research data and research computing infrastructure, or supporting other dRTPs. Applicants can be based at UK universities or UK-based non-profit organisations. Note that it is possible to apply for funds to support non-UK based collaborators to come to the UK. Individuals who operate principally as freelance trainers, educators or community managers in this sector are also eligible to apply for Fund 2.
+This fund will cover 100% of the <a href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/">Full Economic Costs (FEC)</a> of the proposed activity. of the proposed activity. 
 
 </details>
 
