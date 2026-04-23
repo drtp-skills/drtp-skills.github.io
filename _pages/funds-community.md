@@ -71,12 +71,6 @@ A <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/manager
 <summary>How to apply</summary>
 
 Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>.
-<br>
-<br>
-The number of applications funded in each round will depend on the quality of the applications and the amount of funds requested.
-<br>
-<br>
-If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a>
 
 </details>
 
@@ -87,15 +81,10 @@ Applications will be assessed using a light-touch review process to ensure timel
 <br>
 <br>
 Applications will be ranked according to the benefits to the individuals and their local community. Please see the previous section for details on what should be included in the applications.
-<br>
-<br>
-The number of applications funded in each round will depend on the quality of the applications and the amount of funds requested.
-<br>
-<br>
-If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a>
 
 </details>
 
+The number of applications funded in each round will depend on the quality of the applications and the amount of funds requested.
 
-
+If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a>
 

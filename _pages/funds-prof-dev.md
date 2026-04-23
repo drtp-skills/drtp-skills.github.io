@@ -24,6 +24,9 @@ To maximise the effectiveness of this opportunity, the fund will be administered
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per individual being £5k. The eligibility criteria and the review process are described below. 
 
+**The fund is designed to support specific activities and directly associated costs only. Requests for equipment or human effort are not eligible.**
+Applicants should therefore gain approval from their institutions to cover the time spent on the activities for which they seek support.
+
 <details class="accordion">
 <summary>Who can apply</summary>
 
@@ -45,12 +48,7 @@ Applicants are expected to include the following in their applications:
 <li>Detailed breakdown for the expected costs and justification for the requested funds.</li>
 </ul>
 
-<strong>The fund is designed to support specific activities and directly associated costs only. Requests for equipment or human effort are not eligible.</strong>
-<br>
-<br>
-Applicants should therefore gain approval from their institutions to cover the time spent on the activities for which they seek support.
-<br>
-<br>
+
 By default this award will be administered following the reimbursement model, applicants will therefore be expected to keep good records of all expenses. Final reimbursement requests should be within 10% of the requested costs. If this model does not work for you, please indicate that clearly in your application. You must apply and be successful in your application before the activity you seek support for takes place.
 <br>
 <br>
