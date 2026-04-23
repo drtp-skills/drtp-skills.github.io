@@ -51,7 +51,7 @@ Applicants are expected to include the following in their applications:
 Applicants should therefore gain approval from their institutions to cover the time spent on the activities for which they seek support.
 <br>
 <br>
-By default this award will be administered following the reimbursement model, applicants will therefore be expected to keep good records of all your expenses. Final reimbursement requests should be within 10% of the requested costs. If this model does not work for you, please indicate that clearly in your application. You must apply and be successful in your application before the activity you seek support for takes place.
+By default this award will be administered following the reimbursement model, applicants will therefore be expected to keep good records of all expenses. Final reimbursement requests should be within 10% of the requested costs. If this model does not work for you, please indicate that clearly in your application. You must apply and be successful in your application before the activity you seek support for takes place.
 <br>
 <br>
 The successful applicants commit to:
