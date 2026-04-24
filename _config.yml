@@ -75,6 +75,10 @@ collections:
     output: true
     permalink: /:collection/:name/
 
+  project_team:
+    output: true
+    permalink: /:collection/:name/
+
 # ==================================================
 # Archives
 # ==================================================

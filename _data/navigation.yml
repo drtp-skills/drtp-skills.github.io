@@ -31,5 +31,7 @@ main:
     url: /blog/
   # - title: dRTP Landscape
   #   url: /drtp-landscape/
+  - title: The Team
+    url: /team/
   - title: Contacts
     url: /contact-us/
