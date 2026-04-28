@@ -23,7 +23,7 @@ To maximise the effectiveness of this opportunity, the fund will be administered
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £5k (event series will also be considered). The eligibility criteria and the review process are described below.
 
-**The fund is designed to support specific activities and directly associated costs only. Requests for equipment or human effort are not eligible.**
+**The fund is designed to support specific community activities by reimbursing costs such as room/venue hire and catering. Requests for funding to cover staff time or the purchase of equipment are not eligible.**
 Applicants should therefore gain approval from their institutions to cover the time spent on the activities for which they seek support.
 
 <details class="accordion">
