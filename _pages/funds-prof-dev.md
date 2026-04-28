@@ -24,8 +24,8 @@ To maximise the effectiveness of this opportunity, the fund will be administered
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per individual being £5k. The eligibility criteria and the review process are described below. 
 
-**The fund is designed to support specific activities and directly associated costs only. Requests for equipment or human effort are not eligible.**
-Applicants should therefore gain approval from their institutions to cover the time spent on the activities for which they seek support.
+**The fund is designed to support specific professional development activities by reimbursing costs such as access to training courses or travel costs and registration fees for attending conferences or events that would support an individual's professional development. Requests for funding to cover staff time are not eligible.**
+Applicants should therefore gain approval from their home institution to cover the time spent on the activities for which they seek support.
 
 <details class="accordion">
 <summary>Who can apply</summary>
