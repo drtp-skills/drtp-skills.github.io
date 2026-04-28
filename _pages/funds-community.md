@@ -23,11 +23,16 @@ To maximise the effectiveness of this opportunity, the fund will be administered
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £5k (event series will also be considered). The eligibility criteria and the review process are described below.
 
+**The fund is designed to support specific community activities by reimbursing costs such as room/venue hire and catering. Requests for funding to cover staff time or the purchase of equipment are not eligible.**
+Applicants should therefore gain approval from their home institution to cover the time spent on the activities for which they seek support.
+
 <details class="accordion">
 <summary>Who can apply</summary>
 
 This fund is aimed at UK-based researchers and dRTPs involved with research software, research data and research computing infrastructure, or supporting other dRTPs. Applicants can be based at UK universities or UK-based non-profit organisations. Note that it is possible to apply for funds to support non-UK based collaborators to come to the UK. Individuals who operate principally as freelance trainers, educators or community managers in this sector are also eligible to apply for Fund 2.
-This fund will cover 100% of the <a href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/">Full Economic Costs (FEC)</a> of the proposed activity. of the proposed activity. 
+<br>
+<br>
+This fund will cover 100% of the <a href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/">Full Economic Costs (FEC)</a> of the proposed activity.
 
 </details>
 
@@ -66,12 +71,6 @@ A <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/manager
 <summary>How to apply</summary>
 
 Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>.
-<br>
-<br>
-The number of applications funded in each round will depend on the quality of the applications and the amount of funding requested.
-<br>
-<br>
-If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a> 
 
 </details>
 
@@ -82,15 +81,10 @@ Applications will be assessed using a light-touch review process to ensure timel
 <br>
 <br>
 Applications will be ranked according to the benefits to the individuals and their local community. Please see the previous section for details on what should be included in the applications.
-<br>
-<br>
-The number of applications funded in each round will depend on the quality of the applications and the amount of funds requested.
-<br>
-<br>
-If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a>
 
 </details>
 
+The number of applications funded in each round will depend on the quality of the applications and the amount of funds requested.
 
-
+If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a>
 
