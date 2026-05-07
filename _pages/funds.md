@@ -13,28 +13,28 @@ This will be used to support the community-driven activities and initiatives tha
 
 **Fund:**  £350k for small projects up to around £5k and a small number of bigger projects up to £100k.
 
-**Timeframe:**  Call expected to open in late 2025/ early 2026, to complete by early 2028.
+**Timeframe:**  Call expected to open in Summer 2026, to complete by early 2028.
 
 ### Fund 2:  Community Activities
 **Purpose:**   To support community-wide activities, mostly at national level.  These may include creation and support of RTP networks, mentoring programmes, events focussed on capturing career profiles, career development and engagement with other stakeholders eg in industry.
 
 **Fund:**   £150k with up to around £5k per event.
 
-**Timeframe:**   Call expected to open around October 2025, to complete by the end of 2028.
+**Timeframe:**   Call opened in April 2026, to complete by the end of 2028.
 
 ### Fund 3:  Tools and Frameworks
 **Purpose:**   To support development of new tools and frameworks to improve the navigability of the ecosystem.  Activities might include design, creation or testing of new tools for self-assessment, tools that improve navigation, new approaches to continuous professional development and creation of best practice resources.  Expressions of interest will be collected, and we may consider merging some projects.
 
 **Fund:**  £350k for small projects of up to around £5k, bigger projects up to £150k.
 
-**Timeframe:**   Call expected to open in late 2025/ early 2026, to complete by the end of 2028.
+**Timeframe:**   Call expected to open in Summer 2026, to complete by the end of 2028.
 
 ### Fund 4:  Professional Development
 **Purpose:**   To support professional development of individuals who may be early in their career, returning after a break or re-orienting themselves in their careers.  Activities may include attending conferences or events, fees for training courses or certificates and visits to other institutions for knowledge exchange.
 
 **Fund:**   £150k with up to around £5k per individual
 
-**Timeframe:**   Call expected to open around October 2025, to complete by the end of 2028.
+**Timeframe:**   Call opened in February 2026, to complete by the end of 2028.
 
 ### CHARTED flexible funds webinar
 On Tuesday 14th April 2026, the CHARTED project hosted a webinar to provide some background on the project and introduce the two funds accepting applications at the time of recording - Fund 2 (Community activities) and Fund 4 (Professional development). You can watch the recording of this webinar below which also provides details of how to apply to the CHARTED funds via the GoodGrants platform.
