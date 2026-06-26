@@ -7,13 +7,18 @@ classes: wide
 
 **Application deadline**: 30 September 2026, 11:59pm BST. 
 
+<a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large">APPLY HERE</a>
+
+We are offering a webinar on Thursday 23rd July 2026 at 15:00 BST during which we will provide more information about the project and the funds. Interested applicants will also have an opportunity to ask questions. [Please register here](https://imperial-ac-uk.zoom.us/meeting/register/CUYlk--DRciHdrfrceuyKg?_x_zm_rtaid=wbiO5M-FRy6cvPrLzfRs0g.1782482402499.ce022ebee822f18e790ee5287fd60be8&_x_zm_rhtaid=990#/registration).  
+
+## Overview
+
 The total amount of funds available is £350k, spread across two application rounds. In each round we expect to fund one big (up to £150k) and several small projects (up to £15k) but this may vary depending on the range of applications. Please note this fund will cover 80% of the [Full Economic Costs (FEC)](https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/) of the proposed project - in line with the UKRI funding policy.
 
 The maximum allowed duration of each project is 12 months. Successful projects are expected to start within 3 months from being notified of approval for funding.
 
 The second round of this fund is expected to open in late spring 2027.  To be notified when it is opening you can sign up to our mailing list [here](https://mailchi.mp/aec876699acd/subscribe-to-charted)
 
-APPLICATIONS WILL OPEN SOON 
 
 ## Purpose:
 
