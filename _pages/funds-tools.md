@@ -7,7 +7,7 @@ classes: wide
 
 **Application deadline**: 30 September 2026, 11:59pm BST. 
 
-<a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large">APPLY HERE</a>
+<a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
 
 We are offering a webinar on Thursday 23rd July 2026 at 15:00 BST during which we will provide more information about the project and the funds. Interested applicants will also have an opportunity to ask questions. [Please register here](https://imperial-ac-uk.zoom.us/meeting/register/CUYlk--DRciHdrfrceuyKg?_x_zm_rtaid=wbiO5M-FRy6cvPrLzfRs0g.1782482402499.ce022ebee822f18e790ee5287fd60be8&_x_zm_rhtaid=990#/registration).  
 

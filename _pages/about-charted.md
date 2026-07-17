@@ -28,7 +28,10 @@ CHARTED will provide a link between key relevant efforts - past, ongoing and fut
 The CHARTED team:
 - EPCC, University of Edinburgh – Weronika Filinger (Project Lead), Neil Chue Hong (Co-lead and Flexible Fund Manager), Lucy Norris (Network Coordinator), Steven Carlysle-Davies (Research Software Engineer)
 - Imperial College London - Jeremy Cohen (Co-lead and Community Building Manager), Eirini Zormpa (Community Manager)
-- University of Southampton – Steve Crouch (Co-lead and HUB Development Manager), Philly Broadbent (Research Software Engineer)
+- University of Southampton – Steve Crouch (Co-lead and HUB Development Manager), Philippa Wilding (Research Software Engineer)
 
 
- To subscribe to the CHARTED mailing list to receive updates on funding calls and events, sign up here: <a href="https://mailchi.mp/aec876699acd/subscribe-to-charted" class="btn btn--primary btn--large">Sign up to CHARTED Mailing List</a>
+
+ To subscribe to the CHARTED mailing list to receive updates on funding calls and events, sign up here: 
+ 
+ <a href="https://mailchi.mp/aec876699acd/subscribe-to-charted" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">Sign up to CHARTED Mailing List</a>

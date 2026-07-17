@@ -8,10 +8,10 @@ classes: wide
 
 {% for project_team_member in site.project_team %}
   <div>
-    {% if project_team_member.profile_image and project_team_member.profile_image != "" %}
-    <img  src="{{ site.baseurl }}{{ project_team_member.profile_image }}"
+    {% if project_team_member.profile_image and project_team_member.profile_image != '' %}
+    <img src="{{ site.baseurl }}{{ project_team_member.profile_image }}" alt="{{ project_team_member.name }}{% if project_team_member.position and project_team_member.position != '' %} — {{ project_team_member.position }}{% endif %}"
     {% else %}
-    <img  src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png"
+    <img src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png" alt="{{ project_team_member.name }}{% if project_team_member.position and project_team_member.position != '' %} — {{ project_team_member.position }}{% endif %}"
     {% endif %}
           style="border-radius: 50%;
                  float: left;

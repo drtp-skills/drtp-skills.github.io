@@ -9,7 +9,7 @@ classes: wide
 
 **Submission deadlines:**  April 15th 2026 and then every second month 
 
-<a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large">APPLY HERE</a>
+<a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
 
 **Purpose**  
 

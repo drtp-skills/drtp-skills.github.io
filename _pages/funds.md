@@ -39,5 +39,10 @@ This will be used to support the community-driven activities and initiatives tha
 ### CHARTED flexible funds webinar
 On Tuesday 14th April 2026, the CHARTED project hosted a webinar to provide some background on the project and introduce the two funds accepting applications at the time of recording - Fund 2 (Community activities) and Fund 4 (Professional development). You can watch the recording of this webinar below which also provides details of how to apply to the CHARTED funds via the GoodGrants platform.
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://drive.google.com/file/d/1V7sLqagSvxzrMsOqDnE0Z5mA6WAAyzdx/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe></div>
+<a href="https://drive.google.com/file/d/1V7sLqagSvxzrMsOqDnE0Z5mA6WAAyzdx/preview">View Webinar Recording Here</a>
+
+<div role="region" aria-label="CHARTED flexible funds webinar recording" style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1V7sLqagSvxzrMsOqDnE0Z5mA6WAAyzdx/preview" title="CHARTED flexible funds webinar recording" aria-hidden="true" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe>
+</div>
+
 
