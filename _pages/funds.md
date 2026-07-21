@@ -8,12 +8,11 @@ classes: wide
 
 This will be used to support the community-driven activities and initiatives that are aligned with CHARTED goals.  It is split into four streams focused on making the skills and training ecosystem easier to navigate and supporting the community growth, across different dRTP roles, including those that are often underrepresented.  
 
-### Fund 1:  FAIRifying Training Resources
+### [Fund 1:  FAIRifying Training Resources](/funds-fair)
 **Purpose:**  To support activities that make the training ecosystem more findable, accessible, interoperable and reusable.  These might include defining skills, expanding skill trees, linking skills to training, adapting existing content and identifying missing content and professional development challenges.
 
 **Fund:**  £350k for projects up to £40k.
 
-**Timeframe:**  Call expected to open in Summer 2026, to complete by early 2028.
 **Timeframe:**  Call expected to open in Summer 2026, to complete by early 2028.
 
 ### [Fund 2:  Community Activities](/funds-community)

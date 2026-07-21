@@ -7,7 +7,7 @@ classes: wide
 
 We are seeking people to review applications for our flexible funding.  We have four streams of funding - FAIR Ecosystem, Community Activities, Tools and Frameworks and Professional Development.  
 
-Reviewers are needed specifically for our larger project applications under the FAIR Ecosystem (Fund 1) and Tools and Frameworks (Fund 3) which have first closing dates at the end of September 2026.  For more details of the funds see https://drtp-skills.ac.uk/funds/.
+Reviewers are needed specifically for our larger project applications under the FAIR Ecosystem (Fund 1) and Tools and Frameworks (Fund 3) which have first closing dates at the end of September 2026.  For more details of the funds see [https://drtp-skills.ac.uk/funds/](https://drtp-skills.ac.uk/funds/).
 
 You do not necessarily need to have experience of reviewing, but you would need to have knowledge of the area.  
 
