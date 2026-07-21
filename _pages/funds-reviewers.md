@@ -1,5 +1,5 @@
 ---
-title: "Call for Reviewers"
+title: "CHARTED - Call for Reviewers"
 permalink: /funds-reviewers/
 layout: single
 classes: wide

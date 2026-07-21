@@ -1,0 +1,24 @@
+---
+title: "Championing Green Digital Research Workshop - Day 0 of ARCHER2 Celebration of Science 2026, Edinburgh, 18 March 2026 "
+date: "2026-03-18"
+tags: [green, workshop, ARCHER2, EPCC, CHARTED, DisCouRSE, NetDRIVE]
+---
+
+We are pleased to let you know the **Championing Green Digital Research Workshop** will take place at **Sydney Smith - Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG**, on **Wednesday 18 March 2026**, as the Day 0 of the ARCHER2 Celebration of Science 2026.
+
+ 
+
+The majority of people involved in research using digital research infrastructure (DRI) want to understand and reduce the emissions associated with their research activities to have a positive impact on the path to net zero emissions from research. The term DRI includes a very broad range of infrastructure from personal devices (smartphones, laptops, etc.), through high end servers (HPC and HTC systems) to commercial cloud computing resources. Although most people want to take action, they are hampered by a lack of understanding of the scale and source of DRI emissions, uncertain on what they can do in their day-to-day work, and find it difficult when challenged by colleagues or acquaintances who may be sceptical about taking action. This workshop will provide insight into and expand on recent efforts to understand what skills are needed to empower researchers and other digital research technical professionals to make and advocate for positive impact in using DRI for research.
+
+ 
+
+[Registration](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYRBj0tYWTopIk4IiFm-ozPZUMDdUOUdURzZPMjVTNlVHNTk0SzZFMTY2Wi4u&origin=lprLink&route=shorturl) is open now. Travel support is available and applications are due by 19 February 2026. Further details can be found [here](https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0).
+
+
+
+The workshop is being held alongside the ARCHER2 Celebration of Science 2026, which is on the 19th - 20th March 2026. You are welcome to register for this Day 0 workshop alone or for both the workshop and the ARCHER2 Celebration of Science 2026.
+
+
+
+This workshop is being organised by [EPCC](https://www.epcc.ed.ac.uk/) and supported by [ARCHER2](https://www.archer2.ac.uk/) National Service and the UKRI Research Infrastructure Network+ programmes through [CHARTED](https://drtp-skills.ac.uk/), [DisCouRSE](https://discourse-network.github.io/) and [NetDRIVE](https://eng.ox.ac.uk/netdrive).
+
