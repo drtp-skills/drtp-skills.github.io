@@ -15,7 +15,7 @@ main:
     sublinks:
       - title: Overview of Funding
         url: /funds/
-      - title: "Fund 1: FAIR Ecosystem"
+      - title: "Fund 1: FAIRifying Training Resources"
         url: /funds-fair/
       - title: "Fund 2: Community Activities"
         url: /funds-community/
