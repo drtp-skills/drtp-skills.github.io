@@ -8,8 +8,16 @@ main:
         url: /about/charted/
       - title: DRIFT
         url: /about/drift/
-      # - title: Related Projects
-      #   url: /about-related-projects/
+      - title: The Team
+        url: /team/
+      - title: Contacts
+        url: /contact-us/
+  - title: FAIR Training
+    sublinks:
+      - title: FAIR Training Evaluation Service
+        url: /fair-training-evaluation/
+      - title: Defining FAIR Training
+        url: /defining-fair-training/
   - title: Funding Opportunities
     url: /funding-opportunities/
     sublinks:
@@ -29,9 +37,5 @@ main:
     url: /events/
   - title: Blog
     url: /blog/
-  # - title: dRTP Landscape
-  #   url: /drtp-landscape/
-  - title: The Team
-    url: /team/
-  - title: Contacts
-    url: /contact-us/
+
+
