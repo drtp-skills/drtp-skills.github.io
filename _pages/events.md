@@ -19,7 +19,7 @@ sidebar: false
 {% endif %}
 
 <div id="tag-filter-bar">
-  <h3>Filter events by tag:</h3>
+  <h2>Filter events by tag:</h2>
   <button class="tag-filter-btn" data-tag="all">All</button>
   {% for tag in all_tags %}
     <button class="tag-filter-btn" data-tag="{{ tag }}">{{ tag }}</button>
