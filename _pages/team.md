@@ -1,5 +1,5 @@
 ---
-title: "The Team"
+title: "The CHARTED Team"
 permalink: /team/
 layout: single
 classes: wide
