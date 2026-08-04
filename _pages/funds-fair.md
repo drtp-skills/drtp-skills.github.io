@@ -7,6 +7,8 @@ classes: wide
 
 **Application deadline:** 30 September 2026, 11:59pm BST.
 
+<a href="https://digitalresearchinfrastructure.grantplatform.com/entry/entrant?archived=none&page=1&per_page=10&trashed=none" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
+
 The total amount of funds available is £350k, spread across at least two application rounds. In each round we expect to fund several projects (up to £40k).
  
 The maximum allowed duration of each project is 12 months, but most projects are expected to be shorter. Successful projects are expected to start within 3 months from being notified of approval for funding.
@@ -21,9 +23,9 @@ Finding resources that are well aligned with specific learning objectives, knowl
 
 - Adopting common metadata schemas.
 - Improving training resource descriptions (including clearly defined prerequisites and learning outcomes).
-- Creating documentation and process for contributing to the resources, 
+- Creating documentation and process for contributing to the resources.
 - Creating and providing guidance for trainers.
-- Mapping skills from well established frameworks onto training resources,
+- Mapping skills from well established frameworks onto training resources.
 modularising training.
 - Adopting existing training for different delivery modes or audiences.
 - Producing best practice documents for creating or improving FAIRness of training resources, 
@@ -31,6 +33,9 @@ modularising training.
 
 CHARTED has created a tool to help identify which elements of existing training resources can be improved and how. It consists of about 50 questions covering different aspects of Findability, Accessibility, Interoperability and Reusability, and produces a report for suggested improvements. Applicants aiming to improve their existing training resources are encouraged to use the tool to scope the work undertaken as part of the project. 
 
+<a href="https://forms.gle/rKxxFsGZiDwz6Nqb8" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">Complete the FAIR Evaluation Here</a>
+
+Applications projects of all sizes (up to £40,000) are welcome. It is expected that the majority of the budget will be spent on the staff costs. We are not able to cover any equipment costs.
 
 <details class="accordion">
 <summary>Who can apply</summary>
