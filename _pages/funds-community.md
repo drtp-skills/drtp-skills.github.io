@@ -66,6 +66,34 @@ Applicants are expected to include the following in their application:
 </details>
 
 <details class="accordion">
+<summary>Dissemination and reporting</summary>
+
+The goal of this fund is to support community activities and this includes sharing outputs with the wider community.
+<br>
+<br>
+All funded projects will be expected to contribute to the <a href="https://drtp-skills.ac.uk/">CHARTED HUB</a> through:
+
+<ul>
+	<li>Providing a description of the project;</li>
+	<li>Contributing blog posts featuring the work being done (each project will be required to provide at least one post - more if the projects are longer or larger in scope);</li>
+	<li>Sharing the final outputs - either directly on the HUB or linked (as appropriate);</li>
+	<li>Participating and contributing to occasional community events.</li>
+</ul>
+<br>
+Additionally, the funded projects may be asked to share relevant statistical data that was collected during the projects’ duration and directly contributes to CHARTED’s goal of better understanding and improving the dRTP landscape e.g. statistics related to dRTP roles. 
+<br>
+<br>
+CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report.
+<br>
+<br>
+We are also hoping to organise a series of community calls to facilitate knowledge sharing between the funded projects. 
+<br>
+<br>
+The template for the reporting document will be made available SOON! 
+
+</details>
+
+<details class="accordion">
 <summary>How to apply</summary>
 
 Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>. <br><br>

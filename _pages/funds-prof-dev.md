@@ -63,6 +63,29 @@ The successful applicants commit to:
 </details>
 
 <details class="accordion">
+<summary>Dissemination and reporting</summary>
+
+As part of CHARTED’s overall goal to make the dRTP landscape easier to navigate for all stakeholders, all funded projects will be expected to contribute to the <a href="https://drtp-skills.ac.uk/">CHARTED HUB</a> through one or more of the following:
+
+<ul>
+	<li>Providing a description of the project;</li>
+	<li>Contributing blog posts featuring the work being done (each project will be required to provide at least one post);</li>
+	<li>Sharing the final outputs - either directly on the HUB or linked (as appropriate);</li>
+	<li>Participating and contributing to occasional community events.</li>
+</ul>
+<br>
+CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report.
+<br>
+<br>
+We are also hoping to organise a series of community calls to facilitate knowledge sharing between the funded projects. 
+<br>
+<br>
+The template for the reporting document will be made available SOON! 
+
+</details>
+
+
+<details class="accordion">
 <summary>How to apply</summary>
 
 Applications are being managed through Good Grants and you will need to register on the platform in order to complete a form. (Note that although the website page logo is 'SSI Research Software Maintenance Fund', this is still the correct place to apply for CHARTED). 
