@@ -45,4 +45,10 @@ On Tuesday 14th April 2026, the CHARTED project hosted a webinar to provide some
     <iframe src="https://drive.google.com/file/d/1V7sLqagSvxzrMsOqDnE0Z5mA6WAAyzdx/preview" title="CHARTED flexible funds webinar recording" aria-hidden="true" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe>
 </div>
 
+A follow-up webinar took place on 23 July 2026, during which the project team provided more information on Fund 1 (FAIRifying Training Resources) and Fund 3 (Tools and Frameworks). You can watch the recording of this webinar below.
 
+<a href="https://drive.google.com/file/d/1xNktF83FVGiEP2XiCGL856Gjc2ZDIBnA/preview">View Webinar Recording Here</a>
+
+<div role="region" aria-label="CHARTED flexible funds follow-up webinar recording" style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;">
+    <iframe src="https://drive.google.com/file/d/1xNktF83FVGiEP2XiCGL856Gjc2ZDIBnA/preview" title="CHARTED flexible funds webinar recording" aria-hidden="true" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media *;"></iframe>
+</div>
