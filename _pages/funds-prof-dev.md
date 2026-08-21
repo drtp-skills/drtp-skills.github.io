@@ -71,7 +71,10 @@ Applications are being managed through Good Grants and you will need to register
 You will need to register on the platform and sign in to access and complete the online form to submit an application to Fund 4: <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/entrant?archived=none&page=1&per_page=10&trashed=none">Apply via Good Grants</a>
 <br>
 <br>
-If you have any questions about the application or review process please get in touch with us at: <a href="mailto:charted@drtp-skills.ac.uk">charted@drtp-skills.ac.uk</a>
+
+<a href="/assets/pdf/Fund4Form.pdf" download>Click here to download a sample application form.</a> <br><br>
+
+Please note that you cannot use this sample form to make an application - all applications must be completed online within the Good Grants platform.
 
 </details>
 

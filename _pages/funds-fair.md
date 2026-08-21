@@ -125,7 +125,7 @@ Applicants are expected to include the following in their application:<br>
   <li>Detailed breakdown of the expected costs and justification for the requested funds. It is expected that the majority of the budget will be spent on the staff costs - budget outline will be required to be provided as an attachment to the application.</li>
 </ul>
 
-A sample application form for this fund will be made available soon! <br><br>
+<a href="/assets/pdf/Fund1Form.pdf" download>Click here to download a sample application form.</a> <br><br>
 
 Please note that you cannot use this sample form to make an application - all applications must be completed online within the Good Grants platform.
 

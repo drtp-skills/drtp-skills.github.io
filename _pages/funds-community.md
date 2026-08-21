@@ -63,14 +63,16 @@ Applicants are expected to include the following in their application:
 <li>Detailed breakdown for the expected costs and justification for the requested funds.</li>
 </ul>
 
-A <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/manager/mbgOKNYD/blank-pdf/eKjqZMaz">sample application form</a> is available for fund 2 showing the information that needs to be provided. Please note that you cannot use this sample form to make an application - all applications must be completed online within the GoodGrants platform.
-
 </details>
 
 <details class="accordion">
 <summary>How to apply</summary>
 
-Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>.
+Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>. <br><br>
+
+<a href="/assets/pdf/Fund2Form.pdf" download>Click here to download a sample application form.</a> <br><br>
+
+Please note that you cannot use this sample form to make an application - all applications must be completed online within the Good Grants platform.
 
 </details>
 
