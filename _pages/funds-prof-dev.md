@@ -88,7 +88,7 @@ The template for the reporting document will be made available SOON!
 <details class="accordion">
 <summary>How to apply</summary>
 
-Applications are being managed through Good Grants and you will need to register on the platform in order to complete a form. (Note that although the website page logo is 'SSI Research Software Maintenance Fund', this is still the correct place to apply for CHARTED). 
+Applications are being managed through Good Grants and you will need to register on the platform in order to complete a form. (Note that although the website page references the 'Institute for Research Software / Research Software Maintenance Fund', this is still the correct place to apply for CHARTED). 
 <br>
 <br>
 You will need to register on the platform and sign in to access and complete the online form to submit an application to Fund 4: <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/entrant?archived=none&page=1&per_page=10&trashed=none">Apply via Good Grants</a>
