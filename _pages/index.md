@@ -39,10 +39,10 @@ feature_row:
   - image_path: assets/images/fp-writing.jpg
     image_caption: "<small><small>Photo by [Alejandro Escamilla](https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/y83Je1OC6Wc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
     alt: "Person writing next to laptop"
-    title: "Fund 3 is now open!"
-    excerpt: "Fund 3:  Tools and Frameworks is now open for applications"
-    url: "/funds-tools/"
-    btn_label: "Fund 3 Details"
+    title: "All funds are now open!"
+    excerpt: "Funds 1, 2, 3 and 4 are open for applications"
+    url: "/funds/"
+    btn_label: "Fund Details"
     btn_class: "btn--light-outline btn--small"
   - image_path: /assets/images/fp-conference.jpg
     image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
