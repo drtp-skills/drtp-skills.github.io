@@ -18,6 +18,8 @@ main:
         url: /fair-training-evaluation/
       - title: Defining FAIR Training
         url: /defining-fair-training/
+      - title: Interoperable Training
+        url: /interoperable-training/
   - title: Funding Opportunities
     url: /funding-opportunities/
     sublinks:
