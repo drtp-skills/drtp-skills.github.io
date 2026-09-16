@@ -47,10 +47,10 @@ feature_row:
   - image_path: /assets/images/fp-conference.jpg
     image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
     alt: "conference"
-    title: "Webinar Information Session"
-    excerpt: "Hear more information about the funds"
-    url: "https://imperial-ac-uk.zoom.us/meeting/register/CUYlk--DRciHdrfrceuyKg?_x_zm_rtaid=wbiO5M-FRy6cvPrLzfRs0g.1782482402499.ce022ebee822f18e790ee5287fd60be8&_x_zm_rhtaid=990#/registration"
-    btn_label: "Register here"
+    title: "Events"
+    excerpt: "Check out our upcoming events, including those we've funded"
+    url: "/events/"
+    btn_label: "Events Page"
     btn_class: "btn--light-outline btn--small"
 ---
 
