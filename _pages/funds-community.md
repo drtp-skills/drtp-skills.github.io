@@ -7,9 +7,11 @@ classes: wide
 <br/>
 **FUND NOW OPEN** 
 
-**Submission deadlines:**  April 15th 2026 and then every second month 
+**Next submission deadline:**  15th November 2026 (and then every second month)
 
 <a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
+
+_Please note: The terms of Fund 2 have been updated as of September 2026. Previously funded projects under Fund 2 are unaffected. If you are preparing a submission for the next deadline (November 2026), please review details on this page to ensure that your application is aligned with the updated terms._
 
 **Purpose**  
 
@@ -21,10 +23,10 @@ Some of the many ways these challenges can be addressed include community events
 
 To maximise the effectiveness of this opportunity, the fund will be administered on a rolling basis, with  review of submissions taking place approximately every two months.
 
-The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £5k (event series will also be considered). The eligibility criteria and the review process are described below.
+The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £10k (event series will also be considered). The eligibility criteria and the review process are described below.
 
-**The fund is designed to support specific community activities by reimbursing costs such as room/venue hire and catering. Requests for funding to cover staff time or the purchase of equipment are not eligible.**
-Applicants should therefore gain approval from their home institution to cover the time spent on the activities for which they seek support.
+**The fund is designed to support specific community activities by covering costs such as room/venue hire and catering at 80% FEC. Requests for funding to cover staff time are allowed. Requests for funding for the purchase of equipment are not eligible.**
+Applicants should therefore gain approval from their home institution to cover any shortfall in funding resulting from provision of funds at 80% FEC.
 
 <details class="accordion">
 <summary>Who can apply</summary>
@@ -32,7 +34,7 @@ Applicants should therefore gain approval from their home institution to cover t
 This fund is aimed at UK-based researchers and dRTPs involved with research software, research data and research computing infrastructure, or supporting other dRTPs. Applicants can be based at UK universities or UK-based non-profit organisations. Note that it is possible to apply for funds to support non-UK based collaborators to come to the UK. Individuals who operate principally as freelance trainers, educators or community managers in this sector are also eligible to apply for Fund 2.
 <br>
 <br>
-This fund will cover 100% of the <a href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/">Full Economic Costs (FEC)</a> of the proposed activity.
+**This fund will cover 80% of the <a href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/">Full Economic Costs (FEC)</a> of the proposed activity.**
 
 </details>
 
@@ -97,8 +99,6 @@ The template for the reporting document will be made available SOON!
 <summary>How to apply</summary>
 
 Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>. <br><br>
-
-<a href="/assets/pdf/Fund2Form.pdf" download>Click here to download a sample application form.</a> <br><br>
 
 Please note that you cannot use this sample form to make an application - all applications must be completed online within the Good Grants platform.
 
