@@ -26,15 +26,30 @@ To maximise the effectiveness of this opportunity, the fund will be administered
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £10k (event series will also be considered). The eligibility criteria and the review process are described below.
 
 **The fund is designed to support specific community activities by covering costs such as room/venue hire and catering at 80% FEC. Requests for funding to cover staff time are allowed. Requests for funding for the purchase of equipment are not eligible.**
-Applicants should therefore gain approval from their home institution to cover any shortfall in funding resulting from provision of funds at 80% FEC.
+Applicants should therefore gain approval from their home institution to cover
+any shortfall in funding resulting from provision of funds at 80% FEC. <em>If
+you are a UK-based non-profit wanting to apply to Fund 2, please see further
+information under the "Who can apply" section below.</em>
 
 <details class="accordion">
 <summary>Who can apply</summary>
 
-This fund is aimed at UK-based researchers and dRTPs involved with research software, research data and research computing infrastructure, or supporting other dRTPs. Applicants can be based at UK universities or UK-based non-profit organisations. Note that it is possible to apply for funds to support non-UK based collaborators to come to the UK. Individuals who operate principally as freelance trainers, educators or community managers in this sector are also eligible to apply for Fund 2.
+This fund is aimed at UK-based researchers and dRTPs involved with research
+software, research data and research computing infrastructure, or supporting
+other dRTPs. Applicants can be based at UK universities or UK-based non-profit
+organisations. Note that it is possible to apply for funds to support non-UK
+based collaborators to come to the UK. Individuals who operate principally as
+freelance trainers, educators or community managers in this sector are also
+eligible to apply for Fund 2.
 <br>
 <br>
-**This fund will cover 80% of the <a href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/">Full Economic Costs (FEC)</a> of the proposed activity.**
+<strong>This fund will cover 80% of the <a
+href="https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/"
+target="_blank" rel="noopener noreferrer">Full
+Economic Costs (FEC)</a> of the proposed activity.</strong> <em>If you are a
+UK-based non-profit looking to apply to this fund, please <a
+href="mailto:charted@drtp-skills.ac.uk">contact the CHARTED team</a> to discuss
+the possibility of an exception to the 80% funding rule.</em>
 
 </details>
 
@@ -65,6 +80,10 @@ Applicants are expected to include the following in their application:
 <li>Detailed breakdown for the expected costs and justification for the requested funds.</li>
 </ul>
 
+Applications must be made <strong>at least three months in advance of the proposed
+activity date</strong> to allow sufficient time for processing of submissions and
+contract preparation for successful applications.
+
 </details>
 
 <details class="accordion">
@@ -85,7 +104,7 @@ All funded projects will be expected to contribute to the <a href="https://drtp-
 Additionally, the funded projects may be asked to share relevant statistical data that was collected during the projects’ duration and directly contributes to CHARTED’s goal of better understanding and improving the dRTP landscape e.g. statistics related to dRTP roles. 
 <br>
 <br>
-CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report.
+CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report. All successful applicants to Fund 2 will be required to sign a contract with the University of Edinburgh in order to receive funds.
 <br>
 <br>
 We are also hoping to organise a series of community calls to facilitate knowledge sharing between the funded projects. 
@@ -100,7 +119,11 @@ The template for the reporting document will be made available SOON!
 
 Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>. <br><br>
 
-Please note that you cannot use this sample form to make an application - all applications must be completed online within the Good Grants platform.
+Note that all successful applicants to Fund 2 will be required to sign a
+contract with the University of Edinburgh in order to receive funds.
+Applications must be made <strong>at least three months in advance of the
+proposed activity date</strong> to allow sufficient time for processing of
+submissions and contract preparation for successful applications.
 
 </details>
 
