@@ -22,10 +22,10 @@ The second round of this fund is expected to open in late spring 2027.  To be no
 
 ## Purpose:
 
-Over the last couple of years, a lot of efforts have been put into understanding the scope and scale of the dRTP landscape in the UK. As a community we now have a better understanding of the variety of roles that support the digital research infrastructure, and the wide range of skills that are involved. However, entry points and progression pathways, especially in the context of skills, are still not well defined for many roles. Many good quality training resources exist but they are not always easy to find, lack sufficient descriptions or do not fully align with the desired learning outcomes.   
+Over the last couple of years, a lot of effort has been put into understanding the scope and scale of the dRTP landscape in the UK. As a community we now have a better understanding of the variety of roles that support the digital research infrastructure, and the wide range of skills that are involved. However, entry points and progression pathways, especially in the context of skills, are still not well defined for many roles. Many good quality training resources exist but they are not always easy to find, lack sufficient descriptions or do not fully align with the desired learning outcomes.   
 The quality of the training resources may not fully determine their suitability for specific learning objectives, which are the key for task-driven and often time-sensitive on-the-job skill development.  
 
-Fund 3 aims to improve the alignment between the skills, roles and the existing training resources. Its goal is to support the development and extension of tools, frameworks and approaches that improve the navigability of the dRTP training ecosystem, including but not limited to the following activities:
+Fund 3 aims to improve the alignment between skills, roles and existing training resources. Its goal is to support the development and extension of tools, frameworks and approaches that improve the navigability of the dRTP training ecosystem, including but not limited to the following activities:
 
 - Design, development or testing of new tools for self-assessment and diagnostics to help dRTPs identify what skills they may need to complete specific tasks, advance the skills they currently possess, or identify knowledge gaps.
 - Development and improvement of frameworks, schemas, catalogues or other approaches that capture or improve the alignment between different dRTP roles and skills; link skills with training resources; or more generally improve the transparency and navigability of the dRTP skills ecosystem. 
@@ -33,7 +33,7 @@ Fund 3 aims to improve the alignment between the skills, roles and the existing 
 - Development and testing of new approaches to continuous professional development. 
 - Creation of best practice guides or other resources that contribute to a more transparent and easier to navigate training ecosystem.
 
-The above mentioned tools may have narrower focus initially (e.g. specific domain, role, skillset) but should have the potential for being extended to a wider dRTP ecosystem. More detailed examples are included in the “What we are looking for” section.
+The above mentioned tools may have a narrower focus initially (e.g., specific domain, role, or skillset) but should have the potential for being extended to a wider dRTP ecosystem. More detailed examples are included in the “What we are looking for” section.
 
 Applications for both large (up to £150k) and small (up to £15k) projects are welcome.  It is expected that the majority of the budget will be spent on the staff costs. We are not able to cover any equipment costs.  
 
@@ -63,32 +63,32 @@ Note: Organisations that are not normally eligible for UKRI funding may be consi
 The maximum allowed duration of the proposed project is 12 months. Successful projects are expected to start within 3 months of being notified (or when feasible in case of unavoidable project agreement delays) and should end no later than 6 months before the end of the CHARTED project (30 March 2029). 
 <br>
 <br>
-Proposals for both small and bigger projects are welcome. Small proposals are intended to either focus on smaller tasks (e.g. implementation of a specific feature, development of a small tool prototype or creation of a good practice guide) and are mainly expected to be individual work or small collaborations. Larger projects are expected to be wider in scope, more collaborative, and have further reaching impact, clearly defined long-term outcomes and a sustainability plan.  
+Proposals for both small and bigger projects are welcome. Small proposals are intended to either focus on smaller tasks (e.g., implementation of a specific feature, development of a small tool prototype or creation of a good practice guide) and are mainly expected to be individual work or small collaborations. Larger projects are expected to be wider in scope, more collaborative, and have further-reaching impact, clearly defined long-term outcomes and a sustainability plan.  
 <br>
 <br>
-Fund 3 supports development of novel tools and frameworks that improve the transparency and navigability of the dRTP skills, roles and training resource ecosystems. All successful projects should have clearly defined and tangible outputs. The proposed tools, frameworks and other outputs can be related to both technical and non-technical skills, and include standard and novel approaches (including those AI-driven). 
+Fund 3 supports the development of novel tools and frameworks that improve the transparency and navigability of the dRTP skills, roles and training resource ecosystems. All successful projects should have clearly defined and tangible outputs. The proposed tools, frameworks and other outputs can be related to both technical and non-technical skills, and can include standard and novel approaches (including those AI-driven). 
 <br>
 <br>
-All successful projects are expected to have clearly defined, achievable and useful outputs, and to engage with the CHARTED project and the UK dRTP community to disseminate the progress and the final outcomes. All outputs are expected to be FAIR and Open. Please see the Dissemination and reporting section for more details.
+All successful projects are expected to have clearly defined, achievable and useful outputs, and to engage with the CHARTED project and the UK dRTP community to disseminate their progress and the final outcomes. All outputs are expected to be FAIR and Open. Please see the Dissemination and reporting section for more details.
 <br>
 <br>
 From community feedback sessions the CHARTED team collected multiple suggestions which are in scope for this funding call, but the list included below is not intended to limit the type of projects that can apply.
 <br>
 <br>
-Examples of what the in-scope projects could focus on include but is not limited to:
+Examples of what the in-scope projects could focus on include but are not limited to:
 
 <ul>
-	<li>Tools to help dRTPs identify missing or desired skills that may be required to e.g. complete specific tasks, learn a new technology, transition into a different role or progress to the next career stage.</li>
-	<li>Tools to help trainers identify different ‘cohorts’ of learners with roughly similar needs (e.g. personas, roles or job families, competencies at particular levels, scientific domains) or tools that support learners in self-identifying as members of a particular cohort (e.g. a job they want to have). Ideally those tools would point towards appropriate training resources.</li>
+	<li>Tools to help dRTPs identify missing or desired skills that may be required to e.g., complete specific tasks, learn a new technology, transition into a different role or progress to the next career stage.</li>
+	<li>Tools to help trainers identify different ‘cohorts’ of learners with roughly similar needs (e.g., personas, roles or job families, competencies at particular levels, scientific domains) or tools that support learners in self-identifying as members of a particular cohort (e.g., a job they want to have). Ideally those tools would point towards appropriate training resources.</li>
 	<li>Tools to help evaluate how suitable specific training resources are for a given cohort or learner type, which could include support for learners to rate training content.</li>
-	<li>Tools to support learners in verifying their existing knowledge to either help them identify their knowledge gaps or to ensure they meet prerequisites of specific course prerequisites. Ideally those tools would also point towards appropriate training resources.</li>
-	<li>Tools to support training creators in making their training content more FAIR - for example by providing support to identify common schema, define metadata, learning outcomes (e.g. standardising form and language) or prerequisites (to facilitate linking them to other training sources).</li>
+	<li>Tools to support learners in verifying their existing knowledge to either help them identify their knowledge gaps or to ensure they meet the prerequisites of specific courses. Ideally those tools would also point towards appropriate training resources.</li>
+	<li>Tools to support training creators in making their training content more FAIR - for example by providing support to identify common schemas and define metadata, learning outcomes (e.g., standardising form and language) or prerequisites (to facilitate linking them to other training sources).</li>
 	<li>Tools or workflows to support making existing training resources into smaller modules.</li>
 	<li>Tools or frameworks to connect skills to training resources, allowing searching of training across multiple providers, and allowing learners to specify desired learning outcomes.</li>
-	<li>Tools to support recommendation of training based on relationships, e.g. through collaborative filtering or approaches that facilitate data analysis of learners’ needs and behaviours.</li>
-	<li>Learning environments or platforms to support flexible or personalized learning, that may include integrating them into the wider dRTP ecosystem (e.g by mapping the training resources to well-defined skill frameworks), improving support for specific roles, communities or interests, extending or improving their general usability.</li>
-	<li>Developing and testing novel approaches suited to continuous professional skills development e.g. supporting task-driven, time-sensitive and bite-sized learning, or exploring different delivery methods and facilitating engagement with other learners in similar contexts.</li>
-	<li>Creation of good practice guides and tools aligned with the scope of Fund 3 e.g. documentation and tools that help support setting up and organizing workshops, training courses and other activities.</li>
+	<li>Tools to support recommendation of training based on relationships, e.g., through collaborative filtering or approaches that facilitate data analysis of learners’ needs and behaviours.</li>
+	<li>Learning environments or platforms to support flexible or personalized learning, that may include integrating them into the wider dRTP ecosystem (e.g., by mapping the training resources to well-defined skill frameworks), improving support for specific roles, communities or interests, extending or improving their general usability.</li>
+	<li>Developing and testing novel approaches suited to continuous professional skills development e.g., supporting task-driven, time-sensitive and bite-sized learning, or exploring different delivery methods and facilitating engagement with other learners in similar contexts.</li>
+	<li>Creation of good practice guides and tools aligned with the scope of Fund 3 e.g., documentation and tools that help support setting up and organising workshops, training courses and other activities.</li>
 </ul>
 
 
@@ -110,7 +110,7 @@ All funded projects will be expected to contribute to the <a href="https://drtp-
 </ul>
 <br>
 <br>
-Additionally, the funded projects may be asked to share relevant statistical data that was collected during the projects’ duration and directly contributes to CHARTED’s goal of better understanding and improving the dRTP landscape e.g. statistics related to dRTP roles. 
+Additionally, the funded projects may be asked to share relevant statistical data that was collected during the projects’ duration and directly contributes to CHARTED’s goal of better understanding and improving the dRTP landscape e.g., statistics related to dRTP roles. 
 <br>
 <br>
 CHARTED is subject to the UKRI reporting requirements and as a result all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide the end of the project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report.
@@ -119,7 +119,6 @@ CHARTED is subject to the UKRI reporting requirements and as a result all projec
 We are also hoping to organise a series of community calls to facilitate knowledge sharing between the funded projects. 
 <br>
 <br>
-The template for the reporting document will be made available SOON! 
 
 
 </details>

@@ -9,14 +9,14 @@ classes: wide
 This will be used to support the community-driven activities and initiatives that are aligned with CHARTED goals.  It is split into four streams focused on making the skills and training ecosystem easier to navigate and supporting the community growth, across different dRTP roles, including those that are often underrepresented.  
 
 ### [Fund 1:  FAIRifying Training Resources](/funds-fair)
-**Purpose:**  To support activities that make the training ecosystem more findable, accessible, interoperable and reusable.  These might include defining skills, expanding skill trees, linking skills to training, adapting existing content and identifying missing content and professional development challenges.
+**Purpose:**  To support activities that make the training ecosystem more Findable, Accessible, Interoperable and Reusable.  These might include defining skills, expanding skill trees, linking skills to training, adapting existing content and identifying missing content and professional development challenges.
 
 **Fund:**  £350k for projects up to £40k.
 
 **Timeframe:**  Call expected to open in Summer 2026, to complete by early 2028.
 
 ### [Fund 2:  Community Activities](/funds-community)
-**Purpose:**   To support community-wide activities, mostly at national level.  These may include creation and support of RTP networks, mentoring programmes, events focussed on capturing career profiles, career development and engagement with other stakeholders eg in industry.
+**Purpose:**   To support community-wide activities, mostly at national level.  These may include creation and support of dRTP networks, mentoring programmes, events focussed on capturing career profiles, career development and engagement with other stakeholders e.g., in industry.
 
 **Fund:**   £150k with up to £12.5k per application.
 
@@ -32,12 +32,12 @@ This will be used to support the community-driven activities and initiatives tha
 ### [Fund 4:  Professional Development](/funds-prof-dev)
 **Purpose:**   To support professional development of individuals who may be early in their career, returning after a break or re-orienting themselves in their careers.  Activities may include attending conferences or events, fees for training courses or certificates and visits to other institutions for knowledge exchange.
 
-**Fund:**   £150k with up to £5k per individual
+**Fund:**   £150k with up to £5k per individual.
 
 **Timeframe:**   Call opened in February 2026, to complete by the end of 2028.
 
 ### CHARTED flexible funds webinar
-On Tuesday 14th April 2026, the CHARTED project hosted a webinar to provide some background on the project and introduce the two funds accepting applications at the time of recording - Fund 2 (Community activities) and Fund 4 (Professional development). You can watch the recording of this webinar below which also provides details of how to apply to the CHARTED funds via the GoodGrants platform.
+On Tuesday 14th April 2026, the CHARTED project hosted a webinar to provide some background on the project and introduce the two funds accepting applications at the time of recording - Fund 2 (Community Activities) and Fund 4 (Professional Development). You can watch the recording of this webinar below, which also provides details of how to apply to the CHARTED funds via the Good Grants platform.
 
 <a href="https://drive.google.com/file/d/1V7sLqagSvxzrMsOqDnE0Z5mA6WAAyzdx/preview">View Webinar Recording Here</a>
 
