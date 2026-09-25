@@ -18,7 +18,7 @@ This will be used to support the community-driven activities and initiatives tha
 ### [Fund 2:  Community Activities](/funds-community)
 **Purpose:**   To support community-wide activities, mostly at national level.  These may include creation and support of RTP networks, mentoring programmes, events focussed on capturing career profiles, career development and engagement with other stakeholders eg in industry.
 
-**Fund:**   £150k with up to £10k per event.
+**Fund:**   £150k with up to £12.5k per application.
 
 **Timeframe:**   Call opened in April 2026, to complete by the end of 2028.
 

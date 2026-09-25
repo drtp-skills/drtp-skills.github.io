@@ -23,7 +23,7 @@ Some of the many ways these challenges can be addressed include community events
 
 To maximise the effectiveness of this opportunity, the fund will be administered on a rolling basis, with  review of submissions taking place approximately every two months.
 
-The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £10k (event series will also be considered). The eligibility criteria and the review process are described below.
+The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £12.5k (event series will also be considered). The eligibility criteria and the review process are described below.
 
 **The fund is designed to support specific community activities by covering costs such as room/venue hire and catering at 80% FEC. Requests for funding to cover staff time are allowed. Requests for funding for the purchase of equipment are not eligible.**
 Applicants should therefore gain approval from their home institution to cover
