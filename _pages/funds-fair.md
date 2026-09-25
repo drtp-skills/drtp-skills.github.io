@@ -5,17 +5,19 @@ layout: single
 classes: wide
 ---
 
-**Application deadline:** 30 September 2026, 11:59pm BST.
+**Application deadline:** 30th September 2026, 11:59pm BST.
 
 <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/entrant?archived=none&page=1&per_page=10&trashed=none" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
 
-The total amount of funds available is £350k, spread across at least two application rounds. In each round we expect to fund several projects (up to £40k).
+## Overview
+
+The total amount of funds available is £350k, spread across at least two application rounds. In each round we expect to fund several projects (up to £40k). Please note this fund will cover 80% of the [Full Economic Costs (FEC)](https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/) of the proposed project - in line with the UKRI funding policy.
  
 The maximum allowed duration of each project is 12 months, but most projects are expected to be shorter. Successful projects are expected to start within 3 months from being notified of approval for funding.
 
-The second round of this fund is expected to open in late spring 2027.  To be notified when it is opening you can sign up to our mailing list here: [https://mailchi.mp/aec876699acd/subscribe-to-charted](https://mailchi.mp/aec876699acd/subscribe-to-charted)
+The second round of this fund is expected to open in late spring 2027.  To be notified when it is opening you can sign up to our mailing list [here](https://mailchi.mp/aec876699acd/subscribe-to-charted).
 
-**Purpose:**
+## Purpose
 
 The purpose of this fund is to support trainers and training providers in improving the FAIRness (Findability, Accessibility, Interoperability and Reusability) of their training resources. The FAIR principles in their initial form refer to a set of guidelines focussed on optimising reusability of data and digital research objects to make them machine-actionable. In other words, to allow computational systems to easily locate, integrate and process data or digital artifacts with minimum human intervention. This definition of FAIR is still valid in the context of training resources but additional elements need to be considered to improve their discoverability and usability for both learners and trainers. 
 
@@ -82,7 +84,7 @@ All successful projects are expected to have clearly defined, achievable and FAI
 </details>
 
 <details class="accordion">
-<summary>Dissemination and Reporting</summary>
+<summary>Dissemination and reporting</summary>
 
 <br>The goal of this fund is to improve the FAIRness of training resources needed in the DRI space either by improving the resources themselves or by creating content that supports the FAIRification process. Therefore, one of the key requirements is that both outputs and their FAIRfication process are Open. <br><br>
 
@@ -132,7 +134,7 @@ Please note that you cannot use this sample form to make an application - all ap
 
 
 <details class="accordion">
-<summary>Review Process</summary>
+<summary>Review process</summary>
 
 <br>Projects will be assessed based on the information provided in the application form only. 
 The application review committee will consist of two external reviewers, and two representatives from the CHARTED project. The review panel will consist of two external reviewers and one CHARTED representative. <br><br>

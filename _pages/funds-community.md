@@ -5,9 +5,8 @@ layout: single
 classes: wide
 ---
 <br/>
-**FUND NOW OPEN** 
 
-**Next submission deadline:**  15th November 2026 (and then every second month)
+**Next application deadline:**  15th November 2026 (and then every second month)
 
 <a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
 
@@ -15,7 +14,7 @@ _Please note: The terms of Fund 2 have been updated as of September 2026. Previo
 
 **Purpose**  
 
-CHARTED’s “Fund 2” is designed to support a wide range of community activities within the [project’s remit]({{ site.baseurl }}/about/charted/). CHARTED is focussed on making the digital Research Technical Professionals (dRTP) ecosystem easier to navigate for both new and experienced members of the community. This encompasses improving the understanding of skills and roles within the space as well as improving the visibility and accessibility of training resources.
+CHARTED’s Fund 2 is designed to support a wide range of community activities within the [project’s remit]({{ site.baseurl }}/about/charted/). CHARTED is focussed on making the digital Research Technical Professionals (dRTP) ecosystem easier to navigate for both new and experienced members of the community. This encompasses improving the understanding of skills and roles within the space as well as improving the visibility and accessibility of training resources.
 
 Fund 2 is intended to support a variety of events and activities that can help to enable the development of skills, and an improved understanding of roles and technical career pathways, within the dRTP and related communities. Our target audience represents a vitally important part of the modern research ecosystem, but engaging the community, understanding the technical and professional skills that they need and supporting both new and existing roles is not straightforward.
 
@@ -80,9 +79,11 @@ Applicants are expected to include the following in their application:
 <li>Detailed breakdown for the expected costs and justification for the requested funds.</li>
 </ul>
 
-Applications must be made <strong>at least three months in advance of the proposed
-activity date</strong> to allow sufficient time for processing of submissions and
-contract preparation for successful applications.
+Note that all successful applicants to Fund 2 will be required to sign a
+contract with the University of Edinburgh in order to receive funds.
+Applications must be made <strong>at least three months in advance of the
+proposed activity date</strong> to allow sufficient time for processing of
+submissions and contract preparation for successful applications.
 
 </details>
 
@@ -104,7 +105,7 @@ All funded projects will be expected to contribute to the <a href="https://drtp-
 Additionally, the funded projects may be asked to share relevant statistical data that was collected during the projects’ duration and directly contributes to CHARTED’s goal of better understanding and improving the dRTP landscape e.g., statistics related to dRTP roles. 
 <br>
 <br>
-CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report. All successful applicants to Fund 2 will be required to sign a contract with the University of Edinburgh in order to receive funds.
+CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report.
 <br>
 <br>
 We are also hoping to organise a series of community calls to facilitate knowledge sharing between the funded projects. 
@@ -118,18 +119,12 @@ We are also hoping to organise a series of community calls to facilitate knowled
 
 Applications are being managed through the <a href="https://digitalresearchinfrastructure.grantplatform.com/">Good Grants Platform</a>. You will need to register on the platform and sign in to access and complete the online form to submit an application to fund 2. <a href="https://digitalresearchinfrastructure.grantplatform.com/">Apply via Good Grants</a>. <br><br>
 
-Note that all successful applicants to Fund 2 will be required to sign a
-contract with the University of Edinburgh in order to receive funds.
-Applications must be made <strong>at least three months in advance of the
-proposed activity date</strong> to allow sufficient time for processing of
-submissions and contract preparation for successful applications.
-
 </details>
 
 <details class="accordion">
 <summary>Review process</summary>
 
-Applications will be assessed using a light-touch review process to ensure timeliness of the awards. The review committee will consist of two external reviewers, and two representatives from the projects.
+Applications will be assessed using a light-touch review process to ensure timeliness of the awards.
 <br>
 <br>
 Applications will be ranked according to the benefits to the individuals and their local community. Please see the previous section for details on what should be included in the applications.

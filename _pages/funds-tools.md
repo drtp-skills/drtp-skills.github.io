@@ -5,11 +5,9 @@ layout: single
 classes: wide
 ---
 
-**Application deadline**: 30 September 2026, 11:59pm BST. 
+**Application deadline**: 30th September 2026, 11:59pm BST. 
 
 <a href="https://digitalresearchinfrastructure.grantplatform.com/" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
-
-We are offering a webinar on Thursday 23rd July 2026 at 15:00 BST during which we will provide more information about the project and the funds. Interested applicants will also have an opportunity to ask questions. [Please register here](https://imperial-ac-uk.zoom.us/meeting/register/CUYlk--DRciHdrfrceuyKg?_x_zm_rtaid=wbiO5M-FRy6cvPrLzfRs0g.1782482402499.ce022ebee822f18e790ee5287fd60be8&_x_zm_rhtaid=990#/registration).  
 
 ## Overview
 
@@ -17,10 +15,10 @@ The total amount of funds available is £350k, spread across two application rou
 
 The maximum allowed duration of each project is 12 months. Successful projects are expected to start within 3 months from being notified of approval for funding.
 
-The second round of this fund is expected to open in late spring 2027.  To be notified when it is opening you can sign up to our mailing list [here](https://mailchi.mp/aec876699acd/subscribe-to-charted)
+The second round of this fund is expected to open in late spring 2027. To be notified when it is opening you can sign up to our mailing list [here](https://mailchi.mp/aec876699acd/subscribe-to-charted).
 
 
-## Purpose:
+## Purpose
 
 Over the last couple of years, a lot of effort has been put into understanding the scope and scale of the dRTP landscape in the UK. As a community we now have a better understanding of the variety of roles that support the digital research infrastructure, and the wide range of skills that are involved. However, entry points and progression pathways, especially in the context of skills, are still not well defined for many roles. Many good quality training resources exist but they are not always easy to find, lack sufficient descriptions or do not fully align with the desired learning outcomes.   
 The quality of the training resources may not fully determine their suitability for specific learning objectives, which are the key for task-driven and often time-sensitive on-the-job skill development.  
