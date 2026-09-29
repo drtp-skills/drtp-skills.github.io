@@ -20,7 +20,7 @@ Fund 2 is intended to support a variety of events and activities that can help t
 
 Some of the many ways these challenges can be addressed include community events, hackathons, working meetings and networking opportunities. We are also keen to support alternative approaches to knowledge exchange and career support, such as peer networking and mentoring schemes and training activities that specifically address current gaps in the skills ecosystem.
 
-To maximise the effectiveness of this opportunity, the fund will be administered on a rolling basis, with submissions being reviewed every two months.
+To maximise the effectiveness of this opportunity, the fund will be administered on a rolling basis, with new submissions being reviewed approximately every two months.
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per activity being £12.5k (event series will also be considered). The eligibility criteria and the review process are described below.
 
