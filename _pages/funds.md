@@ -16,7 +16,7 @@ All funds are open and are expected to complete by the end of 2028.
 **Fund:**  £350k for projects up to £40k.
 
 ### [Fund 2:  Community Activities](/funds-community)
-**Purpose:**   To support community-wide activities, mostly at national level.  These may include creation and support of dRTP networks, mentoring programmes, events focussed on capturing career profiles, career development and engagement with other stakeholders e.g., in industry.
+**Purpose:**   To support community-wide activities, mostly at national level.  These may include creation and support of dRTP networks, mentoring programmes, events focussed on capturing career profiles, career development and engagement with other stakeholders e.g. in industry.
 
 **Fund:**   £150k with up to £12.5k per application.
 
