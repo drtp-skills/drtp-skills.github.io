@@ -139,6 +139,11 @@ footer p {
   margin: 0 0 0.75rem 1rem;
 }
 
+.page__content > .event-image {
+  width: 50%;
+  max-width: 50%;
+}
+
 .event-image img {
   display: block;
   width: 100%;

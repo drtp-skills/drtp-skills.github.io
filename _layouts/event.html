@@ -1,0 +1,12 @@
+---
+layout: single
+---
+{% if page.image %}
+<figure class="event-image">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
+  {% if page.image_caption %}
+    <figcaption>{{ page.image_caption | markdownify }}</figcaption>
+  {% endif %}
+</figure>
+{% endif %}
+{{ content }}
