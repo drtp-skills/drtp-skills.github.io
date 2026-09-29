@@ -85,7 +85,7 @@ Examples of what the in-scope projects could focus on include but are not limite
 	<li>Tools or frameworks to connect skills to training resources, allowing searching of training across multiple providers, and allowing learners to specify desired learning outcomes.</li>
 	<li>Tools to support recommendation of training based on relationships, e.g., through collaborative filtering or approaches that facilitate data analysis of learners’ needs and behaviours.</li>
 	<li>Learning environments or platforms to support flexible or personalized learning, that may include integrating them into the wider dRTP ecosystem (e.g., by mapping the training resources to well-defined skill frameworks), improving support for specific roles, communities or interests, extending or improving their general usability.</li>
-	<li>Developing and testing novel approaches suited to continuous professional skills development e.g., supporting task-driven, time-sensitive and bite-sized learning, or exploring different delivery methods and facilitating engagement with other learners in similar contexts.</li>
+	<li>Developing and testing novel approaches suited to continuous professional skills development e.g. supporting task-driven, time-sensitive and bite-sized learning, or exploring different delivery methods and facilitating engagement with other learners in similar contexts.</li>
 	<li>Creation of good practice guides and tools aligned with the scope of Fund 3 e.g., documentation and tools that help support setting up and organising workshops, training courses and other activities.</li>
 </ul>
 
