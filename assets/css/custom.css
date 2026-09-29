@@ -129,14 +129,42 @@ footer p {
   font-size: 12px;
 }
 
-.event-item img {
+.event-image {
+  position: relative;
   float: right;
   width: 25%;
-  height: auto;
   max-width: 25%;
   aspect-ratio: 5 / 4;
+  overflow: hidden;
+  margin: 0 0 0.75rem 1rem;
+}
+
+.event-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
-  margin: 0 1rem 0.75rem 0;
+}
+
+.event-image figcaption {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  padding: 0.4rem 0.55rem;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  font-size: 0.8rem;
+  line-height: 1.3;
+}
+
+.event-image figcaption p {
+  margin: 0;
+}
+
+.event-image figcaption a {
+  color: inherit;
 }
 
 .event-item hr {

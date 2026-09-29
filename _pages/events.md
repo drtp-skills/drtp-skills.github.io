@@ -55,8 +55,13 @@ sidebar: false
   {% endif %}
   <div class="event-item" data-tags="{% if event.tags %}{{ event.tags | join: ',' }}{% endif %}">
     {% if event.image %}
-    <img src="{{ event.image | relative_url }}"
-       alt="{{ event.image_alt | default: event.title }}">
+      <figure class="event-image">
+        <img src="{{ event.image | relative_url }}"
+            alt="{{ event.image_alt | default: event.title }}">
+        {% if event.image_caption %}
+          <figcaption>{{ event.image_caption | markdownify }}</figcaption>
+        {% endif %}
+      </figure>
     {% endif %}
     <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
     <p>{{ event.excerpt }}</p>
