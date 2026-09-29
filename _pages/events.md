@@ -54,6 +54,15 @@ sidebar: false
   {% assign mention_future = "yes" %}
   {% endif %}
   <div class="event-item" data-tags="{% if event.tags %}{{ event.tags | join: ',' }}{% endif %}">
+    {% if event.image %}
+      <figure class="event-image">
+        <img src="{{ event.image | relative_url }}"
+            alt="{{ event.image_alt | default: event.title }}">
+        {% if event.image_caption %}
+          <figcaption>{{ event.image_caption | markdownify }}</figcaption>
+        {% endif %}
+      </figure>
+    {% endif %}
     <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
     <p>{{ event.excerpt }}</p>
     {% if event.date %}<p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }}</p>{% endif %}

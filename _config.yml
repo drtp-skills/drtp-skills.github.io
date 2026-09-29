@@ -67,7 +67,7 @@ defaults:
       path: ""
       type: events
     values:
-      layout: single
+      layout: event
       author_profile: false
 
 collections:
