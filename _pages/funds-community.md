@@ -63,7 +63,7 @@ Fund 2 will support community-wide activities including but not limited to:
 <li>Events focussed on capturing career profiles or supporting specific roles;</li>
 <li>Events engaging with other stakeholders e.g., industry, policy makers, international guests/collaborators, etc.;</li>
 <li>Training events focussed on skills (both technical and non-technical) that are not covered/available anywhere else.</li>
-<li>Hackathons covering different tools or frameworks that are relevant to CHARTED i.e. support the community</li>
+<li>Hackathons covering different tools or frameworks that are relevant to CHARTED.</li>
 <li>Online, synchronous frameworks and events to strengthen and support the community</li>
 <li>Mentoring programmes;</li>
 </ul>
