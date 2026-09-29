@@ -6,25 +6,25 @@ classes: wide
 ---
 
 <br/>
-**THIS FUND IS NOW OPEN**
 
-**Submission deadlines:**  15th of every month
+**Application deadline:**  15th of every month
 
 <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/entrant?archived=none&page=1&per_page=10&trashed=none" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
 
-**Purpose**
+## Purpose
 
-One of the challenges digital Research Technical Professionals face (often early in their careers) is the lack of funding to attend external opportunities such as conferences, training courses, and other community and knowledge exchange events. The goal of this fund is to provide financial support for dRTPs who would not be able to take advantage of those opportunities otherwise. The examples of supported activities include but are not limited to:
+One of the challenges digital Research Technical Professionals face (often early in their careers) is the lack of funding to attend external opportunities such as conferences, training courses, and other community and knowledge-exchange events. The goal of this fund is to provide financial support for dRTPs who would not be able to take advantage of those opportunities otherwise. Examples of supported activities include but are not limited to:
 
 - Conference or event attendance;
 - Fees for training courses or certificates;
 - Visits to other institutions for knowledge exchange.
 
-To maximise the effectiveness of this opportunity, the fund will be administered on a rolling basis, with the review process taking place towards the end of each month. 
+To maximise the effectiveness of this opportunity, the fund will be administered on a rolling basis, with the review process taking place once a month. 
 
 The total value of this fund is £150k to be administered throughout the duration of the CHARTED project, with the maximum award per individual being £5k. The eligibility criteria and the review process are described below. 
 
 **The fund is designed to support specific professional development activities by reimbursing costs such as access to training courses or travel costs and registration fees for attending conferences or events that would support an individual's professional development. Requests for funding to cover staff time are not eligible.**
+This is the only one of CHARTED's funds that is offered at 100% FEC.
 Applicants should therefore gain approval from their home institution to cover the time spent on the activities for which they seek support.
 
 <details class="accordion">
@@ -42,8 +42,8 @@ This fund is primarily for UK-based early career professionals and people transi
 Applicants are expected to include the following in their applications:
 <ul>
 <li>Description of the event or activity for which the support is being requested, including the scope of their participation.</li>
-<li>Motivation for your attendance and involvement, including suitability and benefits for their current career stage.</li>
-<li>Well-formed plans on how you will connect with your local community to champion or disseminate what they have gained from the proposed activity</li>
+<li>Motivation for their attendance and involvement, including suitability and benefits for their current career stage.</li>
+<li>Well-formed plans on how they will connect with their local community to champion or disseminate what they have gained from the proposed activity</li>
 <li>Details of other funding sources explored.</li>
 <li>Detailed breakdown for the expected costs and justification for the requested funds.</li>
 </ul>
@@ -56,7 +56,7 @@ The successful applicants commit to:
 <ul>
 <li>Booking travel with accordance to the University of Edinburgh Sustainable Travel policy - <a href="https://sustainability.ed.ac.uk/operations/travel/sustainable-travel-policy">https://sustainability.ed.ac.uk/operations/travel/sustainable-travel-policy</a>.</li>
 <li>Being featured as growing dRTPs on the HUB, including reporting back after the funded activity.</li>
-<li>Engaging with your local community and disseminating the outcomes on the dRTP skills HUB (e.g. writing blog posts, organising webinars, etc.)</li>
+<li>Engaging with their local community and disseminating the outcomes on the dRTP skills HUB (e.g. writing blog posts, organising webinars, etc.)</li>
 <li>Keeping receipts and other records of the relevant expenses.</li>
 </ul>
 
@@ -74,13 +74,13 @@ As part of CHARTED’s overall goal to make the dRTP landscape easier to navigat
 	<li>Participating and contributing to occasional community events.</li>
 </ul>
 <br>
-CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report.
+CHARTED is subject to the UKRI reporting requirements and, as a result, all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide an end-of-project report and may be asked to demonstrate good financial management.
 <br>
 <br>
 We are also hoping to organise a series of community calls to facilitate knowledge sharing between the funded projects. 
 <br>
 <br>
-The template for the reporting document will be made available SOON! 
+
 
 </details>
 
@@ -104,7 +104,7 @@ Please note that you cannot use this sample form to make an application - all ap
 <details class="accordion">
 <summary>Review process</summary>
 
-Applications will be assessed using a light-touch review process to ensure timeliness of the awards. The review committee will consist of two external reviewers, and two representatives from the projects.
+Applications will be assessed using a light-touch review process to ensure timeliness of the awards.
 <br>
 <br>
 Applications will be ranked according to the benefits to the individuals and their local community. Please see the previous section for details on what should be included in the applications.

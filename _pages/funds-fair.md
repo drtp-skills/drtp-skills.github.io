@@ -5,37 +5,39 @@ layout: single
 classes: wide
 ---
 
-**Application deadline:** 30 September 2026, 11:59pm BST.
+**Application deadline:** 30th September 2026, 11:59pm BST.
 
 <a href="https://digitalresearchinfrastructure.grantplatform.com/entry/entrant?archived=none&page=1&per_page=10&trashed=none" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">APPLY HERE</a>
 
-The total amount of funds available is £350k, spread across at least two application rounds. In each round we expect to fund several projects (up to £40k).
+## Overview
+
+The total amount of funds available is £350k, spread across at least two application rounds. In each round we expect to fund several projects (up to £40k). Please note this fund will cover 80% of the [Full Economic Costs (FEC)](https://www.ukri.org/councils/epsrc/guidance-for-applicants/costs-you-can-apply-for/principles-of-full-economic-costing-fec/) of the proposed project - in line with the UKRI funding policy.
  
 The maximum allowed duration of each project is 12 months, but most projects are expected to be shorter. Successful projects are expected to start within 3 months from being notified of approval for funding.
 
-The second round of this fund is expected to open in late spring 2027.  To be notified when it is opening you can sign up to our mailing list here: [https://mailchi.mp/aec876699acd/subscribe-to-charted](https://mailchi.mp/aec876699acd/subscribe-to-charted)
+The second round of this fund is expected to open in late spring 2027.  To be notified when it is opening you can sign up to our mailing list [here](https://mailchi.mp/aec876699acd/subscribe-to-charted).
 
-**Purpose:**
+## Purpose
 
-The purpose of this fund is to support trainers and training providers in improving the FAIRness (Findability, Accessibility, Interoperability and Reusability) of their training resources. The FAIR principles in their initial form refer to a set of guidelines focused on optimising reusability of data and digital research objects to make them machine-actionable. In other words, to allow computational systems to easily locate, integrate and process data or digital artifacts with minimum human intervention. This definition of FAIR is still valid in the context of training resources but additional elements need to be considered to improve their discoverability and usability for both learners and trainers. 
+The purpose of this fund is to support trainers and training providers in improving the FAIRness (Findability, Accessibility, Interoperability and Reusability) of their training resources. The FAIR principles in their initial form refer to a set of guidelines focussed on optimising reusability of data and digital research objects to make them machine-actionable. In other words, to allow computational systems to easily locate, integrate and process data or digital artifacts with minimum human intervention. This definition of FAIR is still valid in the context of training resources but additional elements need to be considered to improve their discoverability and usability for both learners and trainers. 
 
-Finding resources that are well aligned with specific learning objectives, knowledge and skill prerequisites,delivery mode and timescales can be very time consuming. This can be especially challenging for task-driven skill development often required in our professional lives. On the other hand, many training budgets are limited to the initial development and delivery of training, and often focused on specific audiences, preventing those resources from being useful for the wider community. Many trainers and training providers realise there is scope to improve human-centric aspects of Findability, Accessibility, Interoperability and Reusability but do not have the means to do so. This funding opportunity aims to support those FAIRification efforts - examples of which include but are not limited to:
+Finding resources that are well aligned with specific learning objectives, knowledge and skill prerequisites, delivery mode and timescales can be very time consuming. This can be especially challenging for task-driven skill development often required in our professional lives. On the other hand, many training budgets are limited to the initial development and delivery of training, and often focussed on specific audiences, preventing those resources from being useful for the wider community. Many trainers and training providers realise there is scope to improve human-centric aspects of Findability, Accessibility, Interoperability and Reusability but do not have the means to do so. This funding opportunity aims to support those FAIRification efforts - examples of which include but are not limited to:
 
 - Adopting common metadata schemas.
 - Improving training resource descriptions (including clearly defined prerequisites and learning outcomes).
 - Creating documentation and process for contributing to the resources.
 - Creating and providing guidance for trainers.
 - Mapping skills from well established frameworks onto training resources.
-modularising training.
-- Adopting existing training for different delivery modes or audiences.
-- Producing best practice documents for creating or improving FAIRness of training resources, 
+- Modularising training.
+- Adapting existing training for different delivery modes or audiences.
+- Producing best practice documents for creating or improving FAIRness of training resources.
 - Creating or expanding training courses that focus on FAIR training resources.    
 
-CHARTED has created a tool to help identify which elements of existing training resources can be improved and how. It consists of about 50 questions covering different aspects of Findability, Accessibility, Interoperability and Reusability, and produces a report for suggested improvements. Applicants aiming to improve their existing training resources are encouraged to use the tool to scope the work undertaken as part of the project. 
+CHARTED has created a tool to help identify which elements of existing training resources can be improved and how. It consists of about 50 questions covering different aspects of Findability, Accessibility, Interoperability and Reusability and produces a report for suggested improvements. Applicants aiming to improve their existing training resources are encouraged to use the tool to scope the work undertaken as part of the project. 
 
 <a href="https://forms.gle/rKxxFsGZiDwz6Nqb8" class="btn btn--primary btn--large" style="background-color: #003366; color: #ffffff; border: 2px solid #ffffff;">Complete the FAIR Evaluation Here</a>
 
-Applications projects of all sizes (up to £40,000) are welcome. It is expected that the majority of the budget will be spent on the staff costs. We are not able to cover any equipment costs.
+Applications for projects of all sizes (up to £40,000) are welcome. It is expected that the majority of the budget will be spent on the staff costs. We are not able to cover any equipment costs.
 
 <details class="accordion">
 <summary>Who can apply</summary>
@@ -55,7 +57,7 @@ Note: Organisations that are not normally eligible for UKRI funding may be consi
 <details class="accordion">
 <summary>What we're looking for</summary>
 
-<br>We expect most projects to either be focused on improving the FAIRness of existing training resources or on creating content (training sources, documentation, best practice guides) for doing so. Other projects may be considered as well if they clearly relate to or enable FAIRification of the training ecosystem. Some examples of projects that would be in-scope include: <br>
+<br>We expect most projects to either be focussed on improving the FAIRness of existing training resources or on creating content (training sources, documentation, best practice guides) for doing so. Other projects may be considered as well if they clearly relate to or enable FAIRification of the training ecosystem. Some examples of projects that would be in-scope include: <br>
 
 <ul>
   <li>Improving training resources by:
@@ -73,7 +75,7 @@ Note: Organisations that are not normally eligible for UKRI funding may be consi
   <li>Creating processes and guides that will help other people create FAIR training resources by design or provide information on how to improve it.</li>
 </ul>
 
-Proposals for different project sizes (up to £40k) are welcome. All project proposals  should describe in detail what kind of work will be undertaken. All applicants focusing on improving the FAIRness of their resources are encouraged to use the FAIR evaluation tool created by CHARTED. <br><br>
+Proposals for different project sizes (up to £40k) are welcome. All project proposals  should describe in detail what kind of work will be undertaken. All applicants focussing on improving the FAIRness of their resources are encouraged to use the FAIR evaluation tool created by CHARTED. <br><br>
 
 The maximum allowed duration of the proposed project is 12 months, but most projects are expected to be shorter. Successful projects are expected to start within 3 months of being notified (or when feasible in case of unavoidable project agreement delays) and should end no later than 6 months before the end of the CHARTED project (30 March 2029). <br><br>
 
@@ -82,7 +84,7 @@ All successful projects are expected to have clearly defined, achievable and FAI
 </details>
 
 <details class="accordion">
-<summary>Dissemination and Reporting</summary>
+<summary>Dissemination and reporting</summary>
 
 <br>The goal of this fund is to improve the FAIRness of training resources needed in the DRI space either by improving the resources themselves or by creating content that supports the FAIRification process. Therefore, one of the key requirements is that both outputs and their FAIRfication process are Open. <br><br>
 
@@ -101,7 +103,6 @@ CHARTED is subject to the UKRI reporting requirements and, as a result, all proj
 
 We are also hoping to organise a series of community calls to facilitate knowledge sharing between the funded projects. <br><br>
 
-The template for the reporting document will be made available SOON! 
 
 </details>
 
@@ -133,7 +134,7 @@ Please note that you cannot use this sample form to make an application - all ap
 
 
 <details class="accordion">
-<summary>Review Process</summary>
+<summary>Review process</summary>
 
 <br>Projects will be assessed based on the information provided in the application form only. 
 The application review committee will consist of two external reviewers, and two representatives from the CHARTED project. The review panel will consist of two external reviewers and one CHARTED representative. <br><br>
