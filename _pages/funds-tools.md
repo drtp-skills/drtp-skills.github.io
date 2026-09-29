@@ -108,7 +108,7 @@ All funded projects will be expected to contribute to the <a href="https://drtp-
 </ul>
 <br>
 <br>
-Additionally, the funded projects may be asked to share relevant statistical data that was collected during the projects’ duration and directly contributes to CHARTED’s goal of better understanding and improving the dRTP landscape e.g., statistics related to dRTP roles. 
+Additionally, the funded projects may be asked to share relevant statistical data that was collected during the projects’ duration and directly contributes to CHARTED’s goal of better understanding and improving the dRTP landscape e.g. statistics related to dRTP roles. 
 <br>
 <br>
 CHARTED is subject to the UKRI reporting requirements and as a result all projects funded from the CHARTED’s flexible fund are expected to report their progress regularly. All funded projects will be required to provide the end of the project report and may be asked to demonstrate good financial management. Additionally, longer projects may be required to provide a mid-point report.
