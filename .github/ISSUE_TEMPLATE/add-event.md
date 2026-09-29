@@ -18,3 +18,6 @@ The tags you would like associated with your event
 
 **The content of the event page**
 The content for your event page, where possible please format this as you would like it to appear on the page.
+
+**Image**
+Upload or provide the URL to an image in .png or .jpg format. Make sure that you have permission to use the image.
