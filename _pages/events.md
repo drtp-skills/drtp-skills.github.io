@@ -12,11 +12,17 @@ sidebar: false
 {% assign sorted_events = site.events | sort: "date" | reverse %}
 {% assign all_tags = sorted_events | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
 
-{% if sorted_events.size > 0 %}
-  {% assign first_event_date = sorted_events[0].date | date: '%s' %}
-{% else %}
-  {% assign first_event_date = "2000-01-01 00:00" | date: '%s' %}
-{% endif %}
+
+{% assign upcoming_events = site.events
+  | where_exp: "event", "event.date >= site.time"
+  | sort: "date"
+%}
+
+{% assign past_events = site.events
+  | where_exp: "event", "event.date <= site.time"
+  | sort: "date"
+  | reverse
+%}
 
 <div id="tag-filter-bar">
   <h2>Filter events by tag:</h2>
@@ -25,6 +31,12 @@ sidebar: false
     <button class="tag-filter-btn" data-tag="{{ tag }}">{{ tag }}</button>
   {% endfor %}
 </div>
+
+{% if sorted_events.size > 0 %}
+  {% assign first_event_date = sorted_events[0].date | date: '%s' %}
+{% else %}
+  {% assign first_event_date = "2000-01-01 00:00" | date: '%s' %}
+{% endif %}
 
 {% if first_event_date < current_date %}
   <div>
@@ -35,13 +47,25 @@ sidebar: false
   </div>
 {% endif %}
 
-
-{% for event in sorted_events %}
+{% for event in upcoming_events %}
   {% assign event_date = event.date | date: '%s' %}
   {% if mention_future == "no" and event_date >= current_date %}
   <h2>Upcoming Events</h2>
   {% assign mention_future = "yes" %}
-  {% elsif mention_previous == "no" and event_date < current_date %}
+  {% endif %}
+  <div class="event-item" data-tags="{% if event.tags %}{{ event.tags | join: ',' }}{% endif %}">
+    <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+    <p>{{ event.excerpt }}</p>
+    {% if event.date %}<p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }}</p>{% endif %}
+    {% if event.tags %}<p><strong>Tags:</strong> {% for tag in event.tags %}<span style="background:#e0f7fa; color:#00796b; padding:2px 8px; margin-right:4px; border-radius:8px; font-size:0.9em;">{{ tag }}</span>{% endfor %}</p>{% endif %}
+    <hr>
+  </div>
+{% endfor %}
+
+
+{% for event in past_events %}
+  {% assign event_date = event.date | date: '%s' %}
+  {% if mention_previous == "no" and event_date < current_date %}
   <h2>Past Events</h2>
   {% assign mention_previous = "yes" %}
   {% endif %}
@@ -53,6 +77,7 @@ sidebar: false
     <hr>
   </div>
 {% endfor %}
+
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
