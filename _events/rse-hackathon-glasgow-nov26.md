@@ -2,6 +2,8 @@
 title: "RSE Hackathon 2026 at University of Glasgow"
 date: "2026-11-26"
 tags: [hackathon, rse, frameworks]
+image: /assets/images/events/example-hackathon.jpg
+image_alt: "Participants working together at a hackathon"
 ---
 
 **Open hackathon to prototype discipline-overarching Research Software Engineering (RSE) frameworks.**

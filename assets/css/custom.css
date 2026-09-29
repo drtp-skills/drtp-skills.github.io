@@ -129,3 +129,16 @@ footer p {
   font-size: 12px;
 }
 
+.event-item img {
+  float: right;
+  width: 25%;
+  height: auto;
+  max-width: 25%;
+  aspect-ratio: 5 / 4;
+  object-fit: cover;
+  margin: 0 1rem 0.75rem 0;
+}
+
+.event-item hr {
+  clear: both;
+}
