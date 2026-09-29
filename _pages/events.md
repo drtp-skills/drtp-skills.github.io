@@ -19,7 +19,7 @@ sidebar: false
 %}
 
 {% assign past_events = site.events
-  | where_exp: "event", "event.date <= site.time"
+  | where_exp: "event", "event.date < site.time"
   | sort: "date"
   | reverse
 %}
