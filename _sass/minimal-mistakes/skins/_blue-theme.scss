@@ -1,23 +1,23 @@
 // Base colors
-$background-color: #0e5559 !default;   // deep teal background
-$text-color: #f8f9fa !default;         // off-white text
-$muted-text-color: #a5c5c7 !default;   // muted aqua-grey
+$background-color: #f8f9fa !default;  
+$text-color: #07373a  !default;         
+$muted-text-color: #6c757d !default;  
 
 // Links
-$link-color: #47d2da !default;         // aqua blue
+$link-color: #007b83 !default;         // aqua blue
 $link-color-hover: lighten($link-color, 8%) !default;
 
 // Brand colors
-$primary-color: #47d2da !default;      // aqua (primary highlight)
+$primary-color: #07373a!default;      // aqua (primary highlight)
 $secondary-color: #007b83 !default;    // teal
 $accent-color: #e63946 !default;       // compass red (strong accent)
 
 // Borders and dividers
 $border-color: #2a6a6e !default;       // soft teal-grey
-$footer-background-color: #07373a !default;
+$footer-background-color: #f8f9fa !default;
 
 // Buttons
-$btn-primary-color: #ffffff !default;
+$btn-primary-color: #007b83 !default;
 $btn-primary-background: $primary-color !default;
 $btn-primary-border: $primary-color !default;
 $btn-primary-hover-background: lighten($primary-color, 8%) !default;
@@ -32,7 +32,7 @@ $highlight-color: $accent-color !default;
 
 // Hero / intro sections
 $hero-background-color: #07373a !default;
-$hero-text-color: #ffffff !default;
+$hero-text-color: #07373a !default;
 
 // ===============================
 // Dark header box (title + tagline + buttons)
@@ -45,10 +45,10 @@ $hero-text-color: #ffffff !default;
 
 .title-box {
   background: rgba(0,0,0,0.8);       // dark transparent background
-  padding: 1.5rem 2rem;
+  padding: 1.2rem 2rem;
   border-radius: 0.5rem;
-  color: $hero-text-color;  // uses your theme's hero text color
-  max-width: 60%;
+  color: #f8f9fa;  // uses your theme's hero text color
+  max-width: 50%;
   display: inline-block;
 
   margin-left: auto;                 // lets flex/grid push it right

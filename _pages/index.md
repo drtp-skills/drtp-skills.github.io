@@ -12,8 +12,8 @@ permalink: /
 header:
   overlay_color: "#00274D" 
   overlay_filter: "0.0"
-  overlay_image: /assets/images/bg-signpost-cropped.jpg
-  caption: "<small>Photo by Jan Huber on Unsplash</small>"
+  overlay_image: /assets/images/bg-compass-3.jpg
+  caption: "<small>Photo by Denise Jans on Unsplash</small>"
 
 intro: 
   -
@@ -35,7 +35,7 @@ feature_row:
     excerpt: "An introduction to CHARTED and DRIFT"
     url: "/about"
     btn_label: "About the Projects"
-    btn_class: "btn--light-outline btn--small"
+    btn_class: "btn--inverse"
   - image_path: assets/images/fp-writing.jpg
     image_caption: "<small><small>Photo by [Alejandro Escamilla](https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/y83Je1OC6Wc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
     alt: "Person writing next to laptop"
@@ -43,7 +43,7 @@ feature_row:
     excerpt: "Funds 1, 2, 3 and 4 are open for applications"
     url: "/funds/"
     btn_label: "Fund Details"
-    btn_class: "btn--light-outline btn--small"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/fp-conference.jpg
     image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
     alt: "conference"
@@ -51,7 +51,7 @@ feature_row:
     excerpt: "Check out our upcoming events, including those we've funded"
     url: "/events/"
     btn_label: "Events Page"
-    btn_class: "btn--light-outline btn--small"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="wide"%}

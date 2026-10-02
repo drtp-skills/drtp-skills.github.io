@@ -2,7 +2,7 @@
 .greedy-nav .visible-links .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #07373a;
+  background-color: #f8f9fa;
   min-width: 160px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   z-index: 1;
@@ -11,12 +11,12 @@
 .greedy-nav .visible-links .dropdown-content a {
   display: block;
   padding: 4px 8px;
-  color: #a5c5c7;
+  color: #07373a;
   text-decoration: none;
 }
 
 .greedy-nav .visible-links .dropdown-content a:hover {
-  color: #47d2da;
+  color: #07373a;
 }
 
 .greedy-nav .visible-links .dropdown:hover .dropdown-content {
