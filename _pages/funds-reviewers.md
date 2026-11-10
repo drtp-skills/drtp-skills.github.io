@@ -11,6 +11,8 @@ Reviewers are needed specifically for our larger project applications under the 
 
 You do not necessarily need to have experience of reviewing, but you would need to have knowledge of the area.  
 
+<a href="/assets/pdf/GuidanceForReviewers.pdf" download>Click here to download the Guidance for Reviewers</a> <br><br>
+
 **Payment**
 
 Reviewers may optionally apply to receive a standard day rate of payment (currently £170/day for panellists and £230/day for chairs).  However, for anyone receiving more than £500 payment in a year from the University of Edinburgh, the process is more complex - please get in touch if you have any queries on this.
