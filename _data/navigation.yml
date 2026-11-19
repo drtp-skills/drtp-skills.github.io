@@ -14,7 +14,7 @@ main:
         url: /contact-us/
   - title: FAIR Training
     sublinks:
-      - title: FAIR Training Evaluation Service
+      - title: FAIR Training Evaluation Toolkit
         url: /fair-training-evaluation/
       - title: Defining FAIR Training
         url: /defining-fair-training/
