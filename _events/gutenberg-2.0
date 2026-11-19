@@ -1,0 +1,20 @@
+---
+title: "Gutenberg 2.0"
+date: "2026-11-03"
+layout: single
+classes: wide
+tags: [Gutenberg, DRIFT]
+---
+
+We have recently released Gutenberg 2.0, the latest version of our open-source platform for research software engineering training materials and events.
+
+The headline feature is Courses: curated learning pathways that any registered user can work through at their own pace, with the same progress tracking our instructor-led events have always had.
+
+2.0 also brings a redesigned home page, smarter navigation through material, and simpler course and event authoring for instructors.
+
+Links:
+
+- [Browse the courses](https://train.rse.ox.ac.uk/courses)
+- [What's new in 2.0](https://blog.oxrse.uk/gutenberg/whats-new/v2-0/)
+- [Source on GitHub](https://github.com/OxfordRSE/gutenberg)
+
